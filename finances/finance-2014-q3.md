@@ -6,6 +6,10 @@
 * kept safe by Hugo: 9043.21 EUR
 * kept safe by Michiel: -237.19 EUR
 
+# Transfer
+
+* 400 EUR H -> M, (5 Sep)
+
 # Money out
 
 * compensation Michiel: 150 EUR
@@ -19,7 +23,7 @@
     * (H) tosdr.org TLS cert, 49.00 EUR (5 Aug)
     * (H) cgupas.lu DNR renewal, 27.00 EUR (13 Aug)
 
-# Finish: 8067.21 - 402.67  = 8574.54 EUR
+# Finish: 7667.21 - 2.67  = 8574.54 EUR
 
-* kept safe by Hugo: 9043.21 - 49 - 27 = 8067.21 EUR
-* kept safe by Michiel: -237.19 - 150 - 15.48 = -402.67 EUR
+* kept safe by Hugo: 9043.21 - 49 - 27 - 400 = 7667.21 EUR
+* kept safe by Michiel: -237.19 - 150 - 15.48 + 400 = -2.67 EUR
