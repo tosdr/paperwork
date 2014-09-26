@@ -24,7 +24,11 @@
     * (H) tosdr.org TLS cert, 49.00 EUR (5 Aug)
     * (H) cgupas.lu DNR renewal, 27.00 EUR (13 Aug)
 
-# Finish: 7667.21 - 27.67  = 8549.54 EUR
+* conference: 85.56 EUR
+    * (H) Travel costs Hugo: train to Berlin - 69 EUR
+    * (H) Drinks Friday - 16.56 EUR
 
-* kept safe by Hugo: 9043.21 - 49 - 27 - 400 = 7667.21 EUR
+# Finish: ... - 27.67  = ... EUR
+
+* kept safe by Hugo: 9043.21 - 49 - 27 - 400 - ... = ... EUR
 * kept safe by Michiel: -237.19 - 175 - 15.48 + 400 = -27.67 EUR
