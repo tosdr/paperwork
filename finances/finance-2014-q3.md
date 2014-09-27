@@ -24,9 +24,13 @@
     * (H) tosdr.org TLS cert, 49.00 EUR (5 Aug)
     * (H) cgupas.lu DNR renewal, 27.00 EUR (13 Aug)
 
-* conference: 85.56 EUR
+* conference: ... EUR
     * (H) Travel costs Hugo: train to Berlin - 69 EUR
     * (H) Drinks Friday - 16.56 EUR
+    * (H) Dinner Friday (1) - 6 EUR
+    * (H) Dinner Friday (2) - 9.60 EUR
+    * (M) Dinner Friday (3) - 7.50 EUR
+    * (H) Travel costs Vincent - 109 EUR
 
 # Finish: ... - 27.67  = ... EUR
 
