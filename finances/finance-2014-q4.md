@@ -23,9 +23,8 @@
 * operations: (H) 38.40 EUR
     * (H) print business cards, 38.40 EUR (30 Oct)
 
-# Finish: ... + ...  = ... EUR
+# Finish: 8998.65 - 35.67 + 320 = 9282.98 EUR
 
-* kept safe by Hugo: 8357.05 + 60 + 620 - ... = ... EUR
-* kept safe by Michiel: -35.67 - ... = ... EUR
+* kept safe by Hugo: 8357.05 + 60 + 620 - 38.40 = 8998.65 EUR
+* kept safe by Michiel: -35.67 = -35.67 EUR
 * kept safe by paypal (buro@tosdr.org): 0 + 320 = 320 EUR
-* kept safe by Flattr: 60 EUR from 2012, plus whatever we received in 2013 and 2014.
