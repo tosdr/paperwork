@@ -5,6 +5,13 @@
 
 * kept safe by Hugo: 8357.05 EUR
 * kept safe by Michiel: -35.17 EUR
+* kept safe by Paypal (buro@tosdr.org): 0 EUR
+* kept safe by Flattr: 60 EUR from 2012, plus whatever we received in 2013 and 2014.
+
+# Money in
+
+* (P) Hackadon.org, 320 EUR (Dec)
+
 
 # Money out
 
@@ -16,3 +23,5 @@
 
 * kept safe by Hugo: 8357.05 - ... = ... EUR
 * kept safe by Michiel: -35.67 - ... = ... EUR
+* kept safe by paypal (buro@tosdr.org): 0 + 320 = 320 EUR
+* kept safe by Flattr: 60 EUR from 2012, plus whatever we received in 2013 and 2014.
