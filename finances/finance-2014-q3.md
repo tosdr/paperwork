@@ -17,6 +17,9 @@
     * (M) import from scrape and IMAP and new points for new threads - 10 hours (up to 35) * 10 euros: 100 EUR (5 Sep)
     * (M) update tosdr-server code and get it running again - 2.5 hours (up to 37.5) * 10 euros: 25 EUR (26 Sep)
 
+* compensation Hugo: (H) 150 EUR
+    * 15 hours general project lead tasks, and Hackathon org - 15 hours * 10 euros: 150 EUR
+
 * operations: (H) 76 EUR, (M) 15.48 EUR
     * (M) tosback server at serverdragon - one month: $6.99=5.16 EUR (5 Jul)
     * (M) tosback server at serverdragon - one month: $6.99=5.16 EUR (5 Aug)
@@ -30,9 +33,9 @@
     * (H) Dinner Friday (1) - 6 EUR
     * (H) Dinner Friday (2) - 9.60 EUR
     * (M) Dinner Friday (3) - 7.50 EUR
-    * (H) Travel costs Vincent - 109 EUR *** TODO: Hugo, please confirm that this was sent via IBAN ***
+    * (H) Travel costs Vincent - 109 EUR
 
-# Finish: 8357.05 - 35.67  = 8321.38 EUR
+# Finish: 8207.05 - 35.67  = 8171.38 EUR
 
-* kept safe by Hugo: 9043.21 - 76 - 210.16 - 400 = 8357.05 EUR
+* kept safe by Hugo: 9043.21 - 76 - 210.16 - 400 - 150 = 8207.05 EUR
 * kept safe by Michiel: -237.19 - 175 - 15.48 -7.50 + 400 = -35.17 EUR
