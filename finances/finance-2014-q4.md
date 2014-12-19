@@ -1,9 +1,9 @@
 # finances 2014 Q4:
 
-# Start: 8357.05 - 35.67  = 8321.38 EUR
+# Start: 8207.05 - 35.67  = 8171.38 EUR
 (from https://github.com/tosdr/1901/blob/master/finances/finance-2014-q3.md )
 
-* kept safe by Hugo: 8357.05 EUR
+* kept safe by Hugo: 8207.05 EUR
 * kept safe by Michiel: -35.17 EUR
 * kept safe by Paypal (buro@tosdr.org): 0 EUR
 
@@ -20,11 +20,16 @@
 
 # Money out
 
+(starting 1 Oct 2014, we now pay ourselves 20 euros/hour instead of 10)
+
+* compensation Hugo: (H) 300 EUR
+    * 15 hours general project lead tasks - 15 hours * 20 euros: 300 EUR
+
 * operations: (H) 38.40 EUR
     * (H) print business cards, 38.40 EUR (30 Oct)
 
-# Finish: 8998.65 - 35.67 + 320 = 9282.98 EUR
+# Finish: 8548.65 - 35.67 + 320 = 8832.98 EUR
 
-* kept safe by Hugo: 8357.05 + 60 + 620 - 38.40 = 8998.65 EUR
+* kept safe by Hugo: 8207.05 + 60 + 620 - 300 - 38.40 = 8548.65 EUR
 * kept safe by Michiel: -35.67 = -35.67 EUR
 * kept safe by paypal (buro@tosdr.org): 0 + 320 = 320 EUR
