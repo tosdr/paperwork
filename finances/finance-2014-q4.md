@@ -25,11 +25,12 @@
 * compensation Hugo: (H) 300 EUR
     * 15 hours general project lead tasks - 15 hours * 20 euros: 300 EUR
 
-* operations: (H) 38.40 EUR
+* operations: (H) 38.40 EUR, (M) 18 EUR
     * (H) print business cards, 38.40 EUR (30 Oct)
+    * (M) server at server dragon, 3 x 6 EUR
 
 # Finish: 8548.65 - 35.67 + 320 = 8832.98 EUR
 
 * kept safe by Hugo: 8207.05 + 60 + 620 - 300 - 38.40 = 8548.65 EUR
-* kept safe by Michiel: -35.67 = -35.67 EUR
+* kept safe by Michiel: -35.67 - 18 EUR = -53.67 EUR
 * kept safe by paypal (buro@tosdr.org): 0 + 320 = 320 EUR
