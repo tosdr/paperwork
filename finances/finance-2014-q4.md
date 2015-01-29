@@ -9,7 +9,7 @@
 
 # Money in
 
-* (P) Hackadon.org, 320 EUR (Dec)
+* (P) Hackadon.org, 240 EUR (Dec)
 * (H) Flattr donations received but not withdrawn during 2012: 60 EUR
 * (H) Flattr donations received and withdrawn during 2013 and 2014: 620 EUR
    * Total received since start: 806 EUR
@@ -33,4 +33,4 @@
 
 * kept safe by Hugo: 8207.05 + 60 + 620 - 300 - 38.40 = 8548.65 EUR
 * kept safe by Michiel: -35.67 - 18 EUR = -53.67 EUR
-* kept safe by paypal (buro@tosdr.org): 0 + 320 = 320 EUR
+* kept safe by paypal (buro@tosdr.org): 0 + 240 = 240 EUR
