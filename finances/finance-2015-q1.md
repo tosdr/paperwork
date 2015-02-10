@@ -14,18 +14,20 @@
 * compensation Hugo: (H) 300 EUR
     * general project lead tasks - 15 hours * 20 euros: 300 EUR
 
-* compensation Marko: (?) 500 EUR
+* compensation Marco: (H) 500 EUR
     * developing tosdr2 - 25 hours * 20 euros = 500 EUR
 
-* compensation Michiel: (?) 100 EUR
+* compensation Michiel: (M) 240 EUR
     * deploying tosdr2 - 5 hours * 20 euros = 100 EUR
+    * configuring edit.tosdr.org - 5 hours * 20 euros = 100 EUR
+    * getting up to speed with Meteor - 2 hours * 20 euros = 40 EUR
 
 * operations: (M) 18 EUR
     * (M) server at server dragon, 3 x 6 EUR
 
 # Finish: ...
 
-* kept safe by Hugo: 8548.65 + ...
-* kept safe by Michiel: -53.67 + ...
+* kept safe by Hugo: 8548.65 - 300 - 500 + ...
+* kept safe by Michiel: -53.67 - 240 - 18 + ...
 * kept safe by paypal (buro@tosdr.org): 240 + ...
 
