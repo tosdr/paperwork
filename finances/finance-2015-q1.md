@@ -7,6 +7,10 @@
 * kept safe by Michiel: -53.17 EUR
 * kept safe by Paypal (buro@tosdr.org): 240 EUR
 
+# Transfers
+
+* Hugo -> Michiel 560 EUR (in progress)
+
 # Money out
 
 (we now pay ourselves 20 euros/hour instead of 10)
@@ -30,6 +34,9 @@
     * setting up edit.tosdr.org backups - 4 hours * 20 euros = 80 EUR
     * putting edit.tosdr.org behind gh:michielbdejong/snickers - 4 hours * 20 euros = 80 EUR
 
+* compensation Jimm for activities other than 1901 board member tasks: (H) 600 EUR
+    * developing database-driven version of tosback.org - 30 hours * 20 euros = 600 EUR
+
 * compensation Marco (project team member but not 1901 board member): (H) 500 EUR
     * developing tosdr2 - 25 hours * 20 euros = 500 EUR
 
@@ -39,7 +46,8 @@
 
 # Finish: ...
 
-* kept safe by Hugo: 8548.65 - 300 - 500 + ...
-* kept safe by Michiel: -53.67 - 480 - 30 + ...
+* kept safe by Hugo: 8548.65 - 300 [ - 500 - 560 - 600 ]* + ...
+* kept safe by Michiel: -53.67 - 480 - 30 [ + 560 ]* + ...
 * kept safe by paypal (buro@tosdr.org): 240 + ...
 
+[...]* = transaction in progress
