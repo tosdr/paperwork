@@ -34,7 +34,7 @@
     * setting up edit.tosdr.org backups - 4 hours * 20 euros = 80 EUR
     * putting edit.tosdr.org behind gh:michielbdejong/snickers - 4 hours * 20 euros = 80 EUR
 
-* compensation Jimm for activities other than 1901 board member tasks: (H) 600 EUR
+* compensation Jimm for activities other than 1901 board member tasks: (J) 600 EUR
     * developing database-driven version of tosback.org - 30 hours * 20 euros = 600 EUR
 
 * compensation Marco (project team member but not 1901 board member): (H) 500 EUR
@@ -44,10 +44,9 @@
     * (M) tosback.org server at securedragon.net, 3 x 6 EUR
     * (M) edit.tosdr.org 50% of one 2Gb VPS at vultr.com starting 1 Feb, 2 x 6 EUR
 
-# Finish: ...
+# Finish: 7188.65 - 3.67 - 600 + 240 = 6824.98
 
-* kept safe by Hugo: 8548.65 - 300 [ - 500 - 560 - 600 ]* + ...
-* kept safe by Michiel: -53.67 - 480 - 30 [ + 560 ]* + ...
-* kept safe by paypal (buro@tosdr.org): 240 + ...
-
-[...]* = transaction in progress
+* kept safe by Hugo: 8548.65 - 300 - 500 - 560 = 7188.65
+* kept safe by Michiel: -53.67 - 480 - 30 + 560 = -3.67
+* kept safe by Jimm: -600
+* kept safe by paypal (buro@tosdr.org): 240
