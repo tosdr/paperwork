@@ -21,15 +21,18 @@
    * Suzanne Azmayesh:				0 EUR (all activities for the 1901 association done as a volunteer)
 
 
-* compensation Michiel for activities other than 1901 board member tasks: (M) 200 EUR
+* compensation Michiel for activities other than 1901 board member tasks: (M) 480 EUR
     * resume data points moderation process - 10 hours * 20 euros = 200 EUR
+    * assign all data points to a service (10 June) - 4 hours * 20 euros = 80 EUR
+    * review all pending Facebook points (11 June) - 4 hours * 20 euros = 80 EUR
+    * review all points that are almost displayable (12 June) - 6 hours * 20 euros = 120 EUR
 
-* operations: (M) 30 EUR
+* operations: (M) 18 EUR
     * (M) tosback.org server at securedragon.net, 3 x 6 EUR
 
 # Finish: ...
  
 * kept safe by Hugo: 7188.65 ...
-* kept safe by Michiel: -3.67 - 200
+* kept safe by Michiel: -3.67 - 440 - 18
 * kept safe by Jimm: -600
 * kept safe by paypal (buro@tosdr.org): 240
