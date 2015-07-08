@@ -10,6 +10,11 @@
 * kept safe by Paypal (buro@tosdr.org): 240 EUR
 
 
+# Transfer
+
+* Hugo -> Michiel, 300 euros, 6 July
+
+
 # Money out
 
 (we now pay ourselves 20 euros/hour instead of 10)
@@ -35,8 +40,8 @@
 
 # Finish: ...
  
-* kept safe by Hugo: 6688.65
-* kept safe by Michiel: -1.67 - 300 - 18 = -319.67
+* kept safe by Hugo: 6688.65 - 300 = 6388.65
+* kept safe by Michiel: -1.67 - 300 - 18 + 300 = -19.67
 * kept safe by Jimm: -600
 * kept safe by Pierre: 0 - 60 = -60
 * kept safe by paypal (buro@tosdr.org): 240
