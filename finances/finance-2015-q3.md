@@ -6,6 +6,7 @@
 * kept safe by Hugo: 6688.65 EUR
 * kept safe by Michiel: -1.67 EUR
 * kept safe by Jimm: -600 EUR
+* kept safe by Pierre: 0 EUR
 * kept safe by Paypal (buro@tosdr.org): 240 EUR
 
 
@@ -25,6 +26,9 @@
 * compensation Michiel for activities other than 1901 board member tasks: (M) 300 EUR
     * curate all backlog points for already reviewed services - 15 hours * 20 euros = 300 EUR
 
+* compensation Pierre: (P) 60 EUR
+    * Hosting cleanup tosdr2, 8 July - 3 hours * 20 euros = 60 EUR
+
 * operations: (M) 18 EUR
     * (M) tosback.org server at securedragon.net, 3 x 6 EUR
 
@@ -34,4 +38,5 @@
 * kept safe by Hugo: 6688.65
 * kept safe by Michiel: -1.67 - 300 - 18 = -319.67
 * kept safe by Jimm: -600
+* kept safe by Pierre: 0 - 60 = -60
 * kept safe by paypal (buro@tosdr.org): 240
