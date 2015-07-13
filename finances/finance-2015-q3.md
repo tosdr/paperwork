@@ -33,6 +33,7 @@
 
 * compensation Pierre: (P) 60 EUR
     * Hosting cleanup tosdr2, 8 July - 3 hours * 20 euros = 60 EUR
+    * i18n tosdr2,           13 July - 6 hours * 20 euros = 120 EUR
 
 * operations: (M) 18 EUR
     * (M) tosback.org server at securedragon.net, 3 x 6 EUR
@@ -43,5 +44,5 @@
 * kept safe by Hugo: 6688.65 - 300 = 6388.65
 * kept safe by Michiel: -1.67 - 300 - 18 + 300 = -19.67
 * kept safe by Jimm: -600
-* kept safe by Pierre: 0 - 60 = -60
+* kept safe by Pierre: 0 - 60 = -180
 * kept safe by paypal (buro@tosdr.org): 240
