@@ -38,7 +38,7 @@
     * (M) tosback.org server at securedragon.net, 3 x 6 EUR
     * (H) tosdr.org DNR renewal (16.12 EUR like last year?) (20 Jul)
 
-# Finish: ...
+# Finish: 6372.53 - 19.67 - 600 - 60 + 240 = 5932.86
  
 * kept safe by Hugo: 6688.65 - 300 - 16.12 = 6372.53
 * kept safe by Michiel: -1.67 - 300 - 18 + 300 = -19.67
