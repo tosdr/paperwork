@@ -1,0 +1,182 @@
+[2015-12-19 14:41:19] <hugoroyd> First le me say that I will take the logs of the IRC channel from now on and publish them on 1901.tosdr.org
+[2015-12-19 14:41:26] <hugoroyd> until the end of the GA
+[2015-12-19 14:42:00] <hugoroyd> Hello everyone, and hello to the members of the association now present, jancborchardt and michielbdejong 
+[2015-12-19 14:42:34] <hugoroyd> I have been given the voting powers from another member, Suzanne (see email to team@tosdr.org sent earlier)
+[2015-12-19 14:42:45] <hugoroyd> michielbdejong: jancborchardt: have you got any voting powers from any other member?
+[2015-12-19 14:42:49] <michielbdejong> hello :)
+[2015-12-19 14:43:22] <jancborchardt> Hey :)
+[2015-12-19 14:43:27] <jancborchardt> No
+[2015-12-19 14:43:35] <michielbdejong> not me. so with hugoroyd and Suzanne included we're 4 voters, right?
+[2015-12-19 14:43:51] <hugoroyd> Yes, which means 2/3 of the members 
+[2015-12-19 14:43:57] <hugoroyd> which is good enough
+[2015-12-19 14:44:20] <hugoroyd> so I guess that's it for the first item of the official GA, "1. Greeting"
+[2015-12-19 14:45:00] <hugoroyd> (see my email with "Date: Fri, 4 Dec 2015 14:37:25 +0100" and "Subject: General Assembly for the ToS;DR Association, Dec 19, 2015" for the official items in the agenda)
+[2015-12-19 14:45:15] <hugoroyd> so let me proceed now with "2. Report on the activities of the association by the President (Hugo)"
+[2015-12-19 14:45:45] → jimms joined (~jimms@77.87.48.131)
+[2015-12-19 14:45:50] <hugoroyd> oh, hello jimms !
+[2015-12-19 14:46:28] <jimms> heyo :)
+[2015-12-19 14:46:32] <hugoroyd> are you here for the GA? You arrived just in time before I started with the second item on the agenda, so it's not too late for you to be part of it officially :)
+[2015-12-19 14:46:37] <jimms> bit late, but I made it back
+[2015-12-19 14:46:41] <hugoroyd> perfect timing
+[2015-12-19 14:46:59] <hugoroyd> so let me correct that we're 5 members present or represented, which is 5 on 6
+[2015-12-19 14:47:12] <hugoroyd> (see my email with "Date: Fri, 4 Dec 2015 14:37:25 +0100" and "Subject: General Assembly for the ToS;DR Association, Dec 19, 2015" for the official items in the agenda)
+[2015-12-19 14:47:23] <michielbdejong> Just phoned Pierre, he will be here in one Portuguese minute :)
+[2015-12-19 14:47:40] <jimms> :)
+[2015-12-19 14:47:43] <hugoroyd> ok, well Pierre is welcome to join as an observer
+[2015-12-19 14:47:46] <hugoroyd> only Iain is missing
+[2015-12-19 14:47:54] <jancborchardt> Yeah, let's proceed
+[2015-12-19 14:47:59] <hugoroyd> that's unfortunate but yeah let's go on
+[2015-12-19 14:48:02] <hugoroyd> so let me proceed now with "2. Report on the activities of the association by the President (Hugo)"
+[2015-12-19 14:48:15] <hugoroyd> The association exists officially since August 2013.
+[2015-12-19 14:48:25] <hugoroyd> This is our first official GA.
+[2015-12-19 14:48:48] <hugoroyd> It should have happened sooner, but didn't
+[2015-12-19 14:49:35] <hugoroyd> The activities of the association have mainly focused on supporting the tosdr.org project, which is conform with the statutes
+[2015-12-19 14:50:21] <hugoroyd> as Michiel's financial report will show, the association has also financially contributed to support some code development, which is available under a free software license on https://github.com/tosdr -- the git commit logs can show the several contributions
+[2015-12-19 14:51:01] <hugoroyd> the association has also supported several costs of the project, such as domain renewal or transportation linked to events where tosdr project members participated (like a year ago in London)
+[2015-12-19 14:51:20] → Pierre-O joined (~Thunderbi@2001:8a0:6ca2:8701:691f:4a55:b709:7f13)
+[2015-12-19 14:51:20] <Pierre-O> back online (sorry...)
+[2015-12-19 14:51:31] <hugoroyd> however, the association has somehow failed to use all the potential it had to support the project
+[2015-12-19 14:51:37] <hugoroyd> hello Pierre-O :)
+[2015-12-19 14:52:26] <hugoroyd> this is partly reflected in the proportion of funds we still haven't spent
+[2015-12-19 14:53:09] <hugoroyd> but this is also reflected in the fact that: we failed to have our GA last year in spite of proposals to make it happen in Berlin last year made by myself -- athough instead we had a hackathon which is also good
+[2015-12-19 14:53:43] <hugoroyd> and it is at last reflected in the difficulty we had to organise this year's GA, as this is the 3rd attempt
+[2015-12-19 14:54:35] <michielbdejong> hugoroyd: one question, if we say the association spends money on the project, do we have to pay any taxes?
+[2015-12-19 14:54:36] <hugoroyd> I am done with my brief report, so let's call it to a vote
+[2015-12-19 14:54:41] <hugoroyd> if you don't have any further question
+[2015-12-19 14:56:16] <hugoroyd> michielbdejong: no, the association has no revenue and has provided no services, so there are no taxes on that --- all the taxes that concern us are on spending money and I believe that all we paid for was tax included
+[2015-12-19 14:57:54] <hugoroyd> any further question or comments that you'd like officially registered in the log?
+[2015-12-19 14:58:19] <jancborchardt> So, what should we vote on?
+[2015-12-19 14:58:35] <hugoroyd> you vote on the report- if you accept it or not
+[2015-12-19 14:59:13] <hugoroyd> ok it seems we have no question, so let's vote: who votes yes?
+[2015-12-19 14:59:21] <jancborchardt> Ah, ok. Yeah, I agree and accept it, good summary: yes
+[2015-12-19 14:59:26] <jimms> yes
+[2015-12-19 14:59:33] <Pierre-O> yes (but I think I don't have voting power)
+[2015-12-19 14:59:49] <hugoroyd> indeed Pierre-O 
+[2015-12-19 14:59:58] <Pierre-O> anyway, I vote yes :)
+[2015-12-19 15:00:05] <hugoroyd> ok I vote yes as well (counts double with my entrusting voting power from Suzanne)
+[2015-12-19 15:00:11] <michielbdejong> yes, good report :)
+[2015-12-19 15:00:23] <hugoroyd> ok so the report is accepted unanimously 
+[2015-12-19 15:00:47] <hugoroyd> Now let's proceed with "3. Financial Report by the Financial Officer (Michiel)"
+[2015-12-19 15:02:51] <Pierre-O> michielbdejong: ?
+[2015-12-19 15:03:09] <michielbdejong> ah :)
+[2015-12-19 15:03:25] <michielbdejong> https://github.com/tosdr/1901/tree/master/finances
+[2015-12-19 15:03:36] <michielbdejong> which period are we talking about?
+[2015-12-19 15:03:47] <michielbdejong> the reports are there by quarter
+[2015-12-19 15:03:51] <hugoroyd> august 2013-now
+[2015-12-19 15:03:53] <hugoroyd> :)
+[2015-12-19 15:04:17] <hugoroyd> you just have to report, you don't have to give all the details, as the details are available on the mentioned pages
+[2015-12-19 15:06:07] <michielbdejong> ok, so we started with https://github.com/tosdr/1901/blob/master/finances/finance-2013-q3.md
+[2015-12-19 15:06:27] <michielbdejong> and now we're at https://github.com/tosdr/1901/blob/master/finances/finance-2015-q4.md#finish-
+[2015-12-19 15:07:10] <michielbdejong> current balance 5924.86 I think from a quick sum
+[2015-12-19 15:07:45] <michielbdejong> balance on 1 july 2013 was 10773.55 i think
+[2015-12-19 15:08:03] <michielbdejong> i mean, if I typed in the sum correctly :)
+[2015-12-19 15:08:30] <jancborchardt> Ok so we still have a lot
+[2015-12-19 15:08:32] <michielbdejong> so we spent between 4000 and 5000 euros in that period
+[2015-12-19 15:08:41] <michielbdejong> yes.
+[2015-12-19 15:08:41] <jancborchardt> Nice, and we should invest that
+[2015-12-19 15:08:57] <michielbdejong> Pierre-O: are you working on edit.tosdr.org currently?
+[2015-12-19 15:09:15] <michielbdejong> jancborchardt: yeah, we should have put it on a bank account with interest from the start, never did that
+[2015-12-19 15:09:30] <Pierre-O> right now, I'm fixing the bug, but I have to admit, it is difficult to find time
+[2015-12-19 15:09:53] <michielbdejong> 2% per year over 5000 euros would give us 100 euros per year
+[2015-12-19 15:09:56] <Pierre-O> (the bug is opened since 30th september)
+[2015-12-19 15:10:09] <hugoroyd> let's focus on the financial report :)
+[2015-12-19 15:10:24] <michielbdejong> hugoroyd: ok, anything else you want to know about the finances?
+[2015-12-19 15:10:38] <hugoroyd> no
+[2015-12-19 15:10:54] <hugoroyd> but i have a good overview of the finances anyway for obvious reasons so, anyone else?
+[2015-12-19 15:10:54] <michielbdejong> ok, let's vote about the report :)
+[2015-12-19 15:11:07] <Pierre-O> I vote yes for the financial report, good job michielbdejong
+[2015-12-19 15:11:11] <hugoroyd> I vote yes
+[2015-12-19 15:11:21] <jimms> yes
+[2015-12-19 15:11:39] <michielbdejong> jimms: it says you're still owed 600 euros, is that true?
+[2015-12-19 15:11:49] <hugoroyd> yes, we have to take care of that, i have a solution :)
+[2015-12-19 15:11:54] <jimms> Yes
+[2015-12-19 15:12:02] <michielbdejong> didn't you get paid at some point for your tosback work?
+[2015-12-19 15:12:18] <michielbdejong> ok, I'll leave that to hugoroyd and jimms to figure out :)
+[2015-12-19 15:12:18] <jimms> I can double check, but I think we only talked about it
+[2015-12-19 15:12:23] <michielbdejong> ok
+[2015-12-19 15:12:45] <hugoroyd> jancborchardt: do you vote yes?
+[2015-12-19 15:12:57] <hugoroyd> michielbdejong: you vote too? :)
+[2015-12-19 15:13:04] <michielbdejong> hugoroyd: I vote yes :)
+[2015-12-19 15:14:17] <jancborchardt> I vote yes
+[2015-12-19 15:14:27] <hugoroyd> ok then the financial report is unanimously accepted
+[2015-12-19 15:14:42] <hugoroyd> "4. Election of the members of the bureau and its President"
+[2015-12-19 15:15:03] <hugoroyd> is there a list of candidates for the bureau and a President?
+[2015-12-19 15:15:30] <hugoroyd> (I suggest we go for a narrow bureau with the current President/VP/Financial Officer)
+[2015-12-19 15:15:42] <Pierre-O> (I shouldn't apply if I want to continue to freelance, right?)
+[2015-12-19 15:16:04] <hugoroyd> (yes it's a clearer boundary)
+[2015-12-19 15:16:30] <hugoroyd> Pierre-O: also you're currently not a member yet :)
+[2015-12-19 15:16:41] <hugoroyd> so technically not sure it's possible
+[2015-12-19 15:16:50] <hugoroyd> (technically, i mean: by our statutes)
+[2015-12-19 15:17:16] <hugoroyd> so do we have a candidate list with michielbdejong jancborchardt and myself for a 3-person bureau with me as president?
+[2015-12-19 15:18:30] <hugoroyd> as a reminder, the bureau is entrusted with certain responsibilities, and a narrower bureau is easier to organise itself (for quorum, etc.)
+[2015-12-19 15:19:04] <michielbdejong> hugoroyd: maybe we should include jimms and Pierre-O?
+[2015-12-19 15:19:33] <michielbdejong> as they are the ones currently working on tosback and edit.tosdr.org respectively
+[2015-12-19 15:19:41] <hugoroyd> Pierre-O isn't a member
+[2015-12-19 15:19:43] <jimms> I honestly have been less involved this year so I will leave it up to you 
+[2015-12-19 15:20:36] <michielbdejong> I guess it's easier if people who get paid from the pot are not board members, right?
+[2015-12-19 15:20:56] <hugoroyd> michielbdejong: yes but the bureau is one specific things, it's not supposed to be composed of the people working on the project, it's supposed to be people taking care of the financial and legal aspects to support the project
+[2015-12-19 15:20:57] <jancborchardt> I'm fine either way
+[2015-12-19 15:20:59] <hugoroyd> yes
+[2015-12-19 15:21:27] <hugoroyd> if you have the same person deciding to pay his or herself, things get problematic quickly from several standpoints
+[2015-12-19 15:22:21] <hugoroyd> ok, so we have a list of members for the Bureau to vote on : michielbdejong jancborchardt and myself
+[2015-12-19 15:22:26] <hugoroyd> who votes in favour?
+[2015-12-19 15:22:55] <Pierre-O> (I do :) )
+[2015-12-19 15:23:10] <jimms> I vote yes
+[2015-12-19 15:23:11] <michielbdejong> ok. As you know, I don't recognize the French legal system as authoritative over our project, but I'm ok with the association existing if that makes it easier for us to do what we do.
+[2015-12-19 15:23:34] <hugoroyd> duly noted :)
+[2015-12-19 15:23:35] <michielbdejong> and given that, I'm honored to be its Financial Officer :)
+[2015-12-19 15:23:47] <hugoroyd> i suppose that's a yes?
+[2015-12-19 15:23:52] <hugoroyd> jancborchardt: ?
+[2015-12-19 15:23:53] <michielbdejong> Shouldn't our titles be in French, btw?
+[2015-12-19 15:24:00] <michielbdejong> Officier Financielle? ;)
+[2015-12-19 15:24:08] <Pierre-O> hehe
+[2015-12-19 15:24:08] <hugoroyd> michielbdejong: yes they are, you are "Trésorier" but that's okay:)
+[2015-12-19 15:24:16] <michielbdejong> ah cool
+[2015-12-19 15:24:19] <michielbdejong> so I vote yes
+[2015-12-19 15:24:23] <hugoroyd> hha
+[2015-12-19 15:24:24] <Pierre-O> ahhaha
+[2015-12-19 15:24:31] <hugoroyd> I vote yes too
+[2015-12-19 15:24:37] <Pierre-O> He gets easily corrupted :)
+[2015-12-19 15:24:44] <hugoroyd> the only member who has not spoken his mind is jancborchardt 
+[2015-12-19 15:25:09] <hugoroyd> Pierre-O: you're aware this is going to be recorded in a public log  right? :)
+[2015-12-19 15:25:20] <hugoroyd> i don't think our financial officer is easily corrupted
+[2015-12-19 15:25:21] <hugoroyd> :)
+[2015-12-19 15:26:01] <Pierre-O> yes, my joke is that he doesn't recognize the french state, but as soon as we give him a french title he accepts - so he got "corrupted" by the title :)
+[2015-12-19 15:26:20] <michielbdejong> Le Trésorier vote que oui
+[2015-12-19 15:26:26] <Pierre-O> très bien
+[2015-12-19 15:26:42] <michielbdejong> I hereby solemny promise never to be corrupted by any French titles offered to me
+[2015-12-19 15:27:00] <hugoroyd> ok, So the bureau is voted: unanimously minus 1 who has not spoken
+[2015-12-19 15:27:14] <Pierre-O> jancborchardt: please, do you agree?
+[2015-12-19 15:27:27] <hugoroyd> that's 4 votes in favour, 1 vote not given
+[2015-12-19 15:27:35] <michielbdejong> shouldn't our VP say that he accepts his role?
+[2015-12-19 15:27:58] <hugoroyd> well, he accepted to be a candidate earlier
+[2015-12-19 15:28:10] <hugoroyd> it doesn't matter that he didn't actually vote on it :)
+[2015-12-19 15:28:28] <hugoroyd> but maybe jancborchardt has gone relief some part of his organic system
+[2015-12-19 15:30:14] <hugoroyd> ok, let's wait for jancborchardt to make things unambiguously clear
+[2015-12-19 15:30:15] <Pierre-O> charming :)
+[2015-12-19 15:30:26] <Pierre-O> What need to be done still?
+[2015-12-19 15:30:30] <hugoroyd> i now realise that his agreeing to the list of candidates wasn't unambiguous
+[2015-12-19 15:30:34] <hugoroyd> sorry for that
+[2015-12-19 15:30:34] <Pierre-O> (or discussed?)
+[2015-12-19 15:31:03] <jancborchardt> Sorry, wifi outage: i vote yes
+[2015-12-19 15:31:09] <hugoroyd> :))
+[2015-12-19 15:31:19] <hugoroyd> ok so the bureau is voted unanimously
+[2015-12-19 15:31:26] <hugoroyd> Trésorier: michielbdejong 
+[2015-12-19 15:31:31] <hugoroyd> Vice Président : jancborchardt 
+[2015-12-19 15:31:40] <hugoroyd> Président : myself
+[2015-12-19 15:31:54] <Pierre-O> (and bug fixed :) https://github.com/tosdr/tosdr2/issues/30 )
+[2015-12-19 15:31:57] <hugoroyd> as a recap, the association has, in addition to the bureau, the following members:
+[2015-12-19 15:31:59] <hugoroyd> jimms: 
+[2015-12-19 15:32:02] <Pierre-O> hugoroyd: you don't need a secretary?
+[2015-12-19 15:32:22] <hugoroyd> Ian McGowan
+[2015-12-19 15:32:31] <hugoroyd> and Suzanne Azmayesh 
+[2015-12-19 15:32:34] <Pierre-O> I know it is 3, but I thought it was not VP but secretary, but anyway, I trust you
+[2015-12-19 15:32:40] <hugoroyd> Pierre-O: now we don't have one
+[2015-12-19 15:32:45] <Pierre-O> ok
+[2015-12-19 15:32:53] <hugoroyd> the GA is now officially over, now: freestyle discussion and hanging out :)
+[2015-12-19 15:33:05] <michielbdejong> ok! :)
+[2015-12-19 15:33:13] <hugoroyd> from now on, I will not publish the logs of the irc channel until the next GA ;)
+[2015-12-19 15:33:23] <jimms> Yay, we did it :)
+[2015-12-19 15:33:29] <Pierre-O> congrats!
+[2015-12-19 15:33:30] <hugoroyd> one note: I will send you the logs so you can approve and compare with your lgs
+[2015-12-19 15:33:56] <hugoroyd> thank you everyone, the 3rd attempt was the right one :) almost perfect, sad that ian couldn't make it :(
