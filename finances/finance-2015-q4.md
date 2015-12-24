@@ -13,7 +13,7 @@
 # Transfer
 
 * Hugo -> Pierre, 520 euros, 30 Nov
-
+* Hugo -> Jimm, 600 euros, 24 Dec
 
 # Money out
 
@@ -33,13 +33,14 @@
     * (thing), date - X hours * 20 euros = XX EUR
     * (thing), date - X hours * 20 euros = XX EUR
 
-* operations: (M) 18 EUR
+* operations: (M) 24 EUR
     * (M) tosback.org server at securedragon.net, 3 x 6 EUR
+    * (M) paypal costs 6 EUR
 
-# Finish: ...
+# Finish: 5252.53 - 33.67 + 0 + 460 + 240 = 5918.86
  
-* kept safe by Hugo: 6372.53 - 520 = 5852.53
-* kept safe by Michiel: -19.67 - 18 = -27.67
-* kept safe by Jimm: -600
+* kept safe by Hugo: 6372.53 - 520 - 600 = 5252.53
+* kept safe by Michiel: -19.67 - 24 = -33.67
+* kept safe by Jimm: -600 + 600 = 0
 * kept safe by Pierre: -60 + 520 = 460
 * kept safe by paypal (buro@tosdr.org): 240
