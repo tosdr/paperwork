@@ -1,10 +1,10 @@
 # finances 2016 Q1:
 
-# Start: 5252.53 - 33.67 + 0 - 60 + 240 = 5398.86
+# Start: 5252.53 - 51.95 + 0 - 60 + 240 = 5380.58
 (from https://github.com/tosdr/1901/blob/master/finances/finance-2015-q4.md )
 
 * kept safe by Hugo: 5252.53 EUR
-* kept safe by Michiel: -33.67 EUR
+* kept safe by Michiel: -51.95 EUR
 * kept safe by Jimm: 0 EUR
 * kept safe by Pierre: -60 EUR
 * kept safe by Paypal (buro@tosdr.org): 240 EUR
@@ -29,7 +29,7 @@
 # Finish: ...
  
 * kept safe by Hugo: 5252.53
-* kept safe by Michiel: -33.67 - 18 = -51.67
+* kept safe by Michiel: -51.95 - 18 = -69.95
 * kept safe by Jimm: 0
 * kept safe by Pierre: -60
 * kept safe by paypal (buro@tosdr.org): 240

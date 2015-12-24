@@ -27,14 +27,15 @@
    * James Stout:				0 EUR (all activities for the 1901 association done as a volunteer)
    * Suzanne Azmayesh:				0 EUR (all activities for the 1901 association done as a volunteer)
 
-* operations: (M) 24 EUR
+* operations: (M) 18 + 6 + 8.28 = 32.28 EUR
     * (M) tosback.org server at securedragon.net, 3 x 6 EUR
     * (M) paypal costs 6 EUR
+    * (M) ssl cert tosback.org 8.28 EUR
 
-# Finish: 5252.53 - 33.67 + 0 - 60 + 240 = 5398.86
+# Finish: 5252.53 - 51.95 + 0 - 60 + 240 = 5380.58
  
 * kept safe by Hugo: 6372.53 - 520 - 600 = 5252.53
-* kept safe by Michiel: -19.67 - 24 = -33.67
+* kept safe by Michiel: -19.67 - 32.28 = -51.95
 * kept safe by Jimm: -600 + 600 = 0
 * kept safe by Pierre: -580 + 520 = -60
 * kept safe by paypal (buro@tosdr.org): 240
