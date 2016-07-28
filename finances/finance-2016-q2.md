@@ -1,4 +1,4 @@
-# finances 2016 Q1:
+# finances 2016 Q2:
 
 # All amounts in euros
 
