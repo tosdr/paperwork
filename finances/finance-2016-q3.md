@@ -1,13 +1,15 @@
 # finances 2016 Q1:
 
-# Start: 5252.53 - 51.95 + 0 - 60 + 240 = 5380.58
-(from https://github.com/tosdr/1901/blob/master/finances/finance-2015-q4.md )
+# All amounts in euros
 
-* kept safe by Hugo: 5252.53 EUR
-* kept safe by Michiel: -51.95 EUR
-* kept safe by Jimm: 0 EUR
-* kept safe by Pierre: -60 EUR
-* kept safe by Paypal (buro@tosdr.org): 240 EUR
+# Start: 5195.39 - 87.95 + 0 - 60 + 240 = 5287.44
+(from https://github.com/tosdr/1901/blob/master/finances/finance-2016-q2.md )
+
+* kept safe by Hugo: 5195.39
+* kept safe by Michiel: -87.95
+* kept safe by Jimm: 0
+* kept safe by Pierre: -60
+* kept safe by paypal (buro@tosdr.org): 240
 
 # Transfer
 
@@ -23,14 +25,15 @@
    * James Stout:				0 EUR (all activities for the 1901 association done as a volunteer)
    * Suzanne Azmayesh:				0 EUR (all activities for the 1901 association done as a volunteer)
 
-* operations: (M) 18 EUR, (H) 57.14 EUR
+* operations: (M) 18, (H) 34.70 + 27 = 61.70
     * (M) tosback.org server at securedragon.net, 3 x 6 EUR
-    * (H) Branchable blog hosting, 12 Jan, 57.14 EUR
+    * (H) two-year renewal tosdr.org, 34.70
+    * (H) one-year renewal cgupas.lu, 27.00
 
-# Finish: 5195.39 - 69.95 + 0 - 60 + 240 = 5305.44
- 
-* kept safe by Hugo: 5252.53 - 57.14 = 5195.39
-* kept safe by Michiel: -51.95 - 18 = -69.95
+# Finish: ... - ... + 0 - 60 + 240 = ...
+
+* kept safe by Hugo: 5195.39 - 61.70 = ...
+* kept safe by Michiel: -87.95 - 18 = ...
 * kept safe by Jimm: 0
 * kept safe by Pierre: -60
 * kept safe by paypal (buro@tosdr.org): 240
