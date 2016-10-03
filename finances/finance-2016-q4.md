@@ -28,11 +28,12 @@
 * operations: (M) 18 = 18
     * (M) tosback.org server at securedragon.net, 3 x 6 EUR
 
-* compensation Michiel: (6+...) * 20 euros/hour = (M) ...
-  * 3 oct: 6 hours
+* compensation Michiel: (7+...) * 20 euros/hour = (M) ...
+  * 3 oct: 7 hours
     * set up my edit.tosdr.org copy on own vultr box for faster networking
     * create local admin user
-    * run export/publish command through GUI
+    * try to run export/publish command through GUI
+    * create mongodumper.js script instead, and run it
     * import data from that export into tosdr-build
 
 # Finish: 5133.69 - ... + 0 - 60 + 240 = ...
