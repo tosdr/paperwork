@@ -35,6 +35,10 @@
     * try to run export/publish command through GUI
     * create mongodumper.js script instead, and run it
     * import data from that export into tosdr-build
+  * 4 oct: 3 hours
+    * improved mongo-importer script and ran a full import
+    * updated welcome message on https://groups.google.com/forum/#!forum/tosdr
+    * imported all posts from Google group and created (placeholder) points for them
 
 # Finish: 5133.69 - ... + 0 - 60 + 240 = ...
 
