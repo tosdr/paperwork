@@ -28,7 +28,7 @@
 * operations: (M) 18 = 18
     * (M) tosback.org server at securedragon.net, 3 x 6 EUR
 
-* compensation Michiel: (7+3+1+1) * 20 euros/hour = (M) 240
+* compensation Michiel: (7+3+1+1+4) * 20 euros/hour = (M) 320
   * 3 oct: 7 hours
     * set up my edit.tosdr.org copy on own vultr box for faster networking
     * create local admin user
@@ -43,11 +43,13 @@
     * switched tosback.org to letsencrypt
   * 9 dec: 1 hour
     * contacted edit.tosdr.org contributors about displaying of their identity
+  * 10 dec: 4 hours
+    * curated points with no services yet
 
-# Finish: 5133.69 - 443.95 + 0 - 60 + 240 = 4869.74
+# Finish: 5133.69 - 523.95 + 0 - 60 + 240 = 4789.74
 
 * kept safe by Hugo: 5133.69
-* kept safe by Michiel: -185.95 - 18 - 240 = -443.95
+* kept safe by Michiel: -185.95 - 18 - 320 = -523.95
 * kept safe by Jimm: 0
 * kept safe by Pierre: -60
 * kept safe by paypal (buro@tosdr.org): 240
