@@ -11,7 +11,12 @@
 * kept safe by Pierre: -60
 * kept safe by paypal (buro@tosdr.org): 240
 
+# Money in
+* 16 Dec: (M) Flattr: 270.51 EUR
+
 # Transfer
+
+* 14 Dec: (H -> M) 500 EUR
 
 # Money out
 
@@ -46,10 +51,12 @@
   * 10 dec: 4 hours
     * curated points with no services yet
 
-# Finish: 5133.69 - 523.95 + 0 - 60 + 240 = 4789.74
+* 16 Dec: (correction paypal balance) 232.86-240=-7.14
 
-* kept safe by Hugo: 5133.69
-* kept safe by Michiel: -185.95 - 18 - 320 = -523.95
+# Finish: 4633.69 + 246.56 + 0 - 60 + 232.86 = 5053.11
+
+* kept safe by Hugo: 5133.69 - 500 = 4633.69
+* kept safe by Michiel: -185.95 + 270.51 + 500 - 18 - 320 = 246.56
 * kept safe by Jimm: 0
 * kept safe by Pierre: -60
-* kept safe by paypal (buro@tosdr.org): 240
+* kept safe by paypal (buro@tosdr.org): 240 - 7.14 = 232.86
