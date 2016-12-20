@@ -7,7 +7,7 @@
 
 * kept safe by Hugo: 5133.69
 * kept safe by Michiel: -185.95
-* kept safe by Jimm: 0
+* kept safe by Chris: 0
 * kept safe by Pierre: -60
 * kept safe by paypal (buro@tosdr.org): 240
 
@@ -17,6 +17,7 @@
 # Transfer
 
 * 14 Dec: (H -> M) 500 EUR
+* 20 Dec: (Paypal -> M) 232.86 EUR
 
 # Money out
 
@@ -51,12 +52,16 @@
   * 10 dec: 4 hours
     * curated points with no services yet
 
+* compensation Chris: (1 + ...) * 20 euros/hour = (C) 20
+  * 18 dec: 1 hours
+    * added himself to https://tosdr.org/about.html#contact
+
 * 16 Dec: (correction paypal balance) 232.86-240=-7.14
 
-# Finish: 4633.69 + 246.56 + 0 - 60 + 232.86 = 5053.11
+# Finish: 4633.69 + 479.42 - 20 - 60 + 0 = 5033.11
 
 * kept safe by Hugo: 5133.69 - 500 = 4633.69
-* kept safe by Michiel: -185.95 + 270.51 + 500 - 18 - 320 = 246.56
-* kept safe by Jimm: 0
+* kept safe by Michiel: -185.95 + 270.51 + 500 + 232.86 - 18 - 320 = 479.42
+* kept safe by Chris: 0 - 20 = -20
 * kept safe by Pierre: -60
-* kept safe by paypal (buro@tosdr.org): 240 - 7.14 = 232.86
+* kept safe by paypal (buro@tosdr.org): 240 - 7.14 - 232.86 = 0
