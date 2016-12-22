@@ -34,7 +34,7 @@
 * operations: (M) 18 = 18
     * (M) tosback.org server at securedragon.net, 3 x 6 EUR
 
-* compensation Michiel: (7+3+1+1+4+3) * 20 euros/hour = (M) 380
+* compensation Michiel: (7+3+1+1+4+3+6+3) * 20 euros/hour = (M) 560
   * 3 oct: 7 hours
     * set up my edit.tosdr.org copy on own vultr box for faster networking
     * create local admin user
@@ -53,6 +53,13 @@
     * curated points with no services yet
   * 20 dec: 3 hours
     * Doing node scripts/curator.js, for points that don't have a service yet
+  * 21 dec: 6 hours
+    * get updated meteor build working (2h)
+    * make publish function produce a zip file (2h)
+    * make tosdr2 import-then-export compatible with tosdr-build (1h)
+    * inventory of currently present Meteor views (1h)
+  * 22 dec: 3 hours
+    * worked on various issues in the tosdr2 repo
 
 * compensation Chris: (1 + ...) * 20 euros/hour = (C) 20
   * 18 dec: 1 hours
@@ -60,10 +67,10 @@
 
 * 16 Dec: (correction paypal balance) 232.86-240=-7.14
 
-# Finish: 4633.69 + 419.42 - 20 - 60 + 0 = 4973.11
+# Finish: 4633.69 + 239.42 - 20 - 60 + 0 = 4793.11
 
 * kept safe by Hugo: 5133.69 - 500 = 4633.69
-* kept safe by Michiel: -185.95 + 270.51 + 500 + 232.86 - 18 - 380 = 419.42
+* kept safe by Michiel: -185.95 + 270.51 + 500 + 232.86 - 18 - 560 = 239.42
 * kept safe by Chris: 0 - 20 = -20
 * kept safe by Pierre: -60
 * kept safe by paypal (buro@tosdr.org): 240 - 7.14 - 232.86 = 0
