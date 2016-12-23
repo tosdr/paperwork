@@ -61,9 +61,14 @@
   * 22 dec: 3 hours
     * worked on various issues in the tosdr2 repo
 
-* compensation Chris: (1 + ...) * 20 euros/hour = (C) 20
+* compensation Chris: (1 + 1 + 2) * 20 euros/hour = (C) 80
+  * 5 dec: 1 hours
+    * Meeting with Framasoft
   * 18 dec: 1 hours
     * added himself to https://tosdr.org/about.html#contact
+  * 23 dec: 2 hours
+    * General reading of the code plus getting hands with the tools
+    * Meeting with an investor/consultant for the planning of the next year
 
 * 16 Dec: (correction paypal balance) 232.86-240=-7.14
 
@@ -71,6 +76,6 @@
 
 * kept safe by Hugo: 5133.69 - 500 = 4633.69
 * kept safe by Michiel: -185.95 + 270.51 + 500 + 232.86 - 18 - 560 = 239.42
-* kept safe by Chris: 0 - 20 = -20
+* kept safe by Chris: 0 - 20 - 20 - 40 = -80
 * kept safe by Pierre: -60
 * kept safe by paypal (buro@tosdr.org): 240 - 7.14 - 232.86 = 0
