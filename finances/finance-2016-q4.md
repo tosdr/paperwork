@@ -60,6 +60,8 @@
     * inventory of currently present Meteor views (1h)
   * 22 dec: 3 hours
     * worked on various issues in the tosdr2 repo
+  * 23 dec: 3 hours
+    * assigned services field to all points that didn't have it yet (3 h)
 
 * compensation Chris: (1 + 1 + 2) * 20 euros/hour = (C) 80
   * 5 dec: 1 hours
