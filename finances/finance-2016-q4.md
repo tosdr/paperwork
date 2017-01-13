@@ -34,7 +34,7 @@
 * operations: (M) 18 = 18
     * (M) tosback.org server at securedragon.net, 3 x 6 EUR
 
-* compensation Michiel: (7+3+1+1+4+3+6+3) * 20 euros/hour = (M) 560
+* compensation Michiel: (7+3+1+1+4+3+6+3+3) * 20 euros/hour = (M) 620
   * 3 oct: 7 hours
     * set up my edit.tosdr.org copy on own vultr box for faster networking
     * create local admin user
@@ -74,10 +74,10 @@
 
 * 16 Dec: (correction paypal balance) 232.86-240=-7.14
 
-# Finish: 4633.69 + 239.42 - 20 - 60 + 0 = 4793.11
+# Finish: 4633.69 + 179.42 - 80 - 60 + 0 = 4673.11
 
 * kept safe by Hugo: 5133.69 - 500 = 4633.69
-* kept safe by Michiel: -185.95 + 270.51 + 500 + 232.86 - 18 - 560 = 239.42
+* kept safe by Michiel: -185.95 + 270.51 + 500 + 232.86 - 18 - 620 = 179.42
 * kept safe by Chris: 0 - 20 - 20 - 40 = -80
 * kept safe by Pierre: -60
 * kept safe by paypal (buro@tosdr.org): 240 - 7.14 - 232.86 = 0
