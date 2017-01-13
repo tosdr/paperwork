@@ -25,6 +25,10 @@
 * operations: (M) 18 = 18
     * (M) tosback.org server at securedragon.net, 3 x 6 EUR
 
+* compensation Michiel: (3) * 20 euros/hours = (M) 90
+  * 13 jan: 3 hours
+    * LastPass review, see https://github.com/tosdr/tosdr-build/pull/44
+
 * compensation Chris: (2 + 1) * 20 euros/hours = (C) 60
   * 3 jan: 2 hours
     * Working on data points
@@ -35,6 +39,6 @@
 # Finish: 4633.69 + 179.42 - 80 - 60 + 0 = 4673.11
 
 * kept safe by Hugo: 4633.69
-* kept safe by Michiel: 179.42 - 18 = 161.42
-* kept safe by Chris: -80 - 60 = -140
+* kept safe by Michiel: 179.42 - 18 - ... = ...
+* kept safe by Chris: -80 - ... = ...
 * kept safe by Pierre: -60
