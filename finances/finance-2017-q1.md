@@ -25,11 +25,15 @@
 * operations: (M) 18 = 18
     * (M) tosback.org server at securedragon.net, 3 x 6 EUR
 
-* compensation Michiel: (3+3) * 20 euros/hours = (M) 120
+* compensation Michiel: (3+3+3+1) * 20 euros/hours = (M) 200
   * 13 jan: 3 hours
     * LastPass review, see https://github.com/tosdr/tosdr-build/pull/44
   * 24 jan: 3 hours
-    * work on https://github.com/tosdr/tosdr2/pull/46
+    * work on curate page in Tosdr2 tool, https://github.com/tosdr/tosdr2/pull/46
+  * 26 jan: 3 hours
+    * work on WhatsApp review https://github.com/tosdr/tosdr-build/issues/45
+  * 27 jan: 1 hour
+    * finish LastPass review, see https://github.com/tosdr/tosdr-build/pull/44
 
 * compensation Chris: (2 + 1) * 20 euros/hours = (C) 60
   * 3 jan: 2 hours
