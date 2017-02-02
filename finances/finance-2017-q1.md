@@ -35,16 +35,20 @@
   * 27 jan: 1 hour
     * finish LastPass review, see https://github.com/tosdr/tosdr-build/pull/44
 
-* compensation Chris: (2 + 1) * 20 euros/hours = (C) 60
+* compensation Chris: (2 + 1 + 3 + 2) * 20 euros/hours = (C) 160
   * 3 jan: 2 hours
     * Working on data points
   * 5 jan: 1 hours
     * Meeting with book keeper
+  * 31 jan: 3 hours
+    * general work done around the month with discussions, organisations and meetings and answers to press
+  * 2 feb: 2 hours 
+    * worked on blog post and press
 
 
 # Finish: 4633.69 + ... - ... - 60 + 0 = 4673.11
 
 * kept safe by Hugo: 4633.69
 * kept safe by Michiel: 179.42 - 18 - ... = ...
-* kept safe by Chris: -80 - ... = ...
+* kept safe by Chris: -80 (d) - 120 (j) - 20 (f) = ... // added the month, it's clearer for me -- chris
 * kept safe by Pierre: -60
