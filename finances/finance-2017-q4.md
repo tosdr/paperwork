@@ -7,7 +7,7 @@
 
 * kept safe by Hugo: 4585.09
 * kept safe by Michiel: -134.58
-* kept safe by Chris: -220
+* kept safe by Chris: -220 (paid)
 * kept safe by Pierre: -60
 
 # Money out
@@ -29,9 +29,9 @@
    * 14 Dec: Worked on database migration, 0h15 + 1h30 + 1h15 = 3h
 
 * compensation Chris: ...
-   * 500 eur for bootcamp
-   * [ hours worked from 14 Dec: ... ]
-
+   * 500 eur for bootcamp (paid)
+   * 11 - 15 / 12 : 5h (5 x 20 = 100 eur)
+   
 * compensation Madeline:
    * 500 eur for bootcamp
 
