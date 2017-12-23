@@ -31,6 +31,7 @@
 * compensation Chris: ...
    * 500 eur for bootcamp (paid)
    * 11 - 15 / 12 : 5h (5 x 20 = 100 eur)
+   * 18 - 24 / 12 : 7h (7 x 20 = 140 eur)
    
 * compensation Madeline:
    * 500 eur for bootcamp
