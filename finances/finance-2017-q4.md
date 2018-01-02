@@ -26,7 +26,10 @@
    * (M) tosback.org server at securedragon.net, 3 x 6 EUR
 
 * compensation Michiel: ...
-   * 14 Dec: Worked on database migration, 0h15 + 1h30 + 1h15 = 3h
+   * Thu 14 Dec: Worked on database migration, 0h15 + 1h30 + 1h15 = 3h
+   * Fri 15 Dec: 3h30
+   * Sat 16 Dec: 0h30
+   * Mon 18 Dec: 1h30 (time spent on phoenix, not counting time spent on meeting)
 
 * compensation Chris: ...
    * 500 eur for bootcamp (paid)
