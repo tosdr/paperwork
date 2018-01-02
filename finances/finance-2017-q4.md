@@ -7,8 +7,12 @@
 
 * kept safe by Hugo: 4585.09
 * kept safe by Michiel: -134.58
-* kept safe by Chris: -220 (paid)
+* kept safe by Chris: -220
 * kept safe by Pierre: -60
+
+# Money transfered
+
+* Hugo -> Chris 720 (when? 18 December?)
 
 # Money out
 
@@ -25,14 +29,14 @@
 * operations: (M) 18 = 18
    * (M) tosback.org server at securedragon.net, 3 x 6 EUR
 
-* compensation Michiel: ...
+* compensation Michiel: `(3+3.5+0.5+1.5)*20` = 170
    * Thu 14 Dec: Worked on database migration, 0h15 + 1h30 + 1h15 = 3h
    * Fri 15 Dec: 3h30
    * Sat 16 Dec: 0h30
    * Mon 18 Dec: 1h30 (time spent on phoenix, not counting time spent on meeting)
 
-* compensation Chris: ...
-   * 500 eur for bootcamp (paid)
+* compensation Chris: `500+100+140`=740
+   * 500 eur for bootcamp
    * 11 - 15 / 12 : 5h (5 x 20 = 100 eur)
    * 18 - 24 / 12 : 7h (7 x 20 = 140 eur)
    
@@ -42,4 +46,11 @@
 * compensation Ke:
    * 500 eur for bootcamp
 
-# Finish: ...
+# Finish: 3865.09 - 322.58 - 240 - 60 - 500 - 500 = 2242.51
+
+* kept safe by Hugo: 4585.09 - 720 = 3865.09
+* kept safe by Michiel: -134.58 - 18 - 170 = -322.58
+* kept safe by Chris: -220 + 720 - 740 = -240
+* kept safe by Pierre: -60
+* kept safe by Madeline: -500
+* kept safe by Ke: -500
