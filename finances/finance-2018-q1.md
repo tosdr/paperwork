@@ -32,7 +32,9 @@
    * (M) tosback.org server at securedragon.net, 3 x 6 EUR
 
 * compensation Michiel: ...
-   * 3 Jan: 5h30 working on points split
+   * Wed 3 Jan: 5h30 working on points split
+   * Thu 4 Jan: 1h30 working on Services export
+   * Sat 6 Jan: 1h privacy practices designation
 
 * compensation Chris: ...
    * ...
