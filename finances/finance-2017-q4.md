@@ -46,7 +46,11 @@
 * compensation Ke:
    * 500 eur for bootcamp
 
-# Finish: 3865.09 - 322.58 - 240 - 60 - 500 - 500 = 2242.51
+* compensation Jimm (25 * 20 = 500 EUR:
+  * 20 hours working on tosback
+  * 5 hours working on phoenix
+
+# Finish: 3865.09 - 322.58 - 240 - 60 - 500 - 500 - 500 = 1742.51
 
 * kept safe by Hugo: 4585.09 - 720 = 3865.09
 * kept safe by Michiel: -134.58 - 18 - 170 = -322.58
@@ -54,3 +58,4 @@
 * kept safe by Pierre: -60
 * kept safe by Madeline: -500
 * kept safe by Ke: -500
+* kept safe by Jimm: -500
