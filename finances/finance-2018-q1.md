@@ -36,6 +36,9 @@
    * Wed 3 Jan: 5h30 working on points split
    * Thu 4 Jan: 1h30 working on Services export
    * Sat 6 Jan: 1h privacy practices designation
+   * Mon 8 Jan: 5h
+   * Tue 9 Jan: 2h
+
 
 * compensation Chris: ...
    * ...
