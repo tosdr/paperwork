@@ -38,7 +38,9 @@
    * Sat 6 Jan: 1h privacy practices designation
    * Mon 8 Jan: 5h
    * Tue 9 Jan: 2h
-
+   * Tue 16 Jan: 11:00-12:30, 13:30-17:00, 20:00-22:00 = 7h
+   * Wed 17 Jan: 10:00-12:00 = 2h
+   * Thu 18 Jan: 10:00-11:00 = 1h
 
 * compensation Chris: ...
    * ...
