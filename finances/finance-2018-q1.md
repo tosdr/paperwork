@@ -42,7 +42,10 @@
    * Wed 17 Jan: 10:00-12:00 = 2h
    * Thu 18 Jan: 10:00-11:00 = 1h
 
-* compensation Chris: ...
-   * ...
+* compensation Chris: tbp: 300
+   * Jan 01 - Jan 14 : Worked around 6h = 6 * 20 = 120 
+   * Tue 16 Jan: 11:00-12:30, 13:30-17:00, 20:00-22:00 = 7h = 140
+   * Wed 17 Jan: 10:00-12:00 = 2h = 40
+
 
 # Finish: ...
