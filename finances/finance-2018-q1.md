@@ -45,7 +45,8 @@
    * Sat 20 Jan: 14:00-16:00, 18:00-19:00 = 3h
    * Mon 5 Feb: 9:00-9:30, 12:30-17:00 = 5h
 
-* compensation Chris: tbp: 120 + 140 + 40 + 40 + 60 + 80 + 60 + 20 = 510
+* compensation Chris: tbp: 120 + 140 + 40 + 40 + 60 + 80 + 60 + 20 + 60 = 570
+   * Train ticker to Utrecht : 138 (paid on 7/02)
    * Tue 16 Jan: 11:00-12:30, 13:30-17:00, 20:00-22:00 = 7h = 140
    * Wed 17 Jan: 10:00-12:00 = 2h = 40
    * Tue 6 Feb: 20:00 - 22:00 = 2h = 40
@@ -53,7 +54,8 @@
    * Fri 9 Feb: 9:00 - 12:00 = 4h = 80
    * Mon 12 Feb: 10:00 - 12:00 + 15:00 - 16h00 = 3h = 60
    * Wed 14 Feb: 23:00 - 00:00 = 20
-   * Train ticker to Utrecht : 138 (paid on 7/02)
+   * Thu 15 Feb: 9:30 - 12:30 = 60
+
 
 
 # Finish: ...
