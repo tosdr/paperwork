@@ -1,13 +1,12 @@
 # finances 2018 Q1:
 
 # All amounts in euros
-
-# Start: 3865.09 - 322.58 - 438 - 60 - 500 - 500 - 500 = 1544.51
+# Start: 4585.09 - 322.58 - 1158 - 60 - 500 - 500 - 500 = 1544.51
 (from https://github.com/tosdr/1901/blob/master/finances/finance-2017-q4.md )
 
-* kept safe by Hugo: 3865.09
+* kept safe by Hugo: 4585.09
 * kept safe by Michiel: -322.58
-* kept safe by Chris: -438
+* kept safe by Chris: -1158
 * kept safe by Pierre: -60
 * kept safe by Madeline: -500
 * kept safe by Ke: -500

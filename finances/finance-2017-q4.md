@@ -12,8 +12,6 @@
 
 # Money transfered
 
-* Hugo -> Chris 720 (when? 18 December? and then another 998 on 9 January? Are we sure?)
-
 # Money out
 
 (we now pay ourselves 20 euros/hour)
@@ -51,11 +49,11 @@
   * 20 hours working on tosback
   * 5 hours working on phoenix
 
-# Finish: 3865.09 - 322.58 - 438 - 60 - 500 - 500 - 500 = 1544.51
+# Finish: 4585.09 - 322.58 - 1158 - 60 - 500 - 500 - 500 = 1544.51
 
-* kept safe by Hugo: 4585.09 - 720 = 3865.09
+* kept safe by Hugo: 4585.09 = 4585.09
 * kept safe by Michiel: -134.58 - 18 - 170 = -322.58
-* kept safe by Chris: -220 + 720 - 740 - 198 = -438
+* kept safe by Chris: -220 - 740 - 198 = -1158
 * kept safe by Pierre: -60
 * kept safe by Madeline: -500
 * kept safe by Ke: -500
