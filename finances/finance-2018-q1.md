@@ -2,22 +2,21 @@
 
 # All amounts in euros
 
-# Start: 3865.09 - 322.58 - 240 - 60 - 500 - 500 - 500 = 1742.51
+# Start: 3865.09 - 322.58 - 438 - 60 - 500 - 500 - 500 = 1544.51
 (from https://github.com/tosdr/1901/blob/master/finances/finance-2017-q4.md )
 
 * kept safe by Hugo: 3865.09
 * kept safe by Michiel: -322.58
-* kept safe by Chris: -240
+* kept safe by Chris: -438
 * kept safe by Pierre: -60
 * kept safe by Madeline: -500
 * kept safe by Ke: -500
 * kept safe by Jimm: -500
 
 # Money transfered
-* 9/01 Hugo to Chris : 998,00 EUR (500 for bootcamp, 240 for Dec 2017 work, 198 train to paris, 60 for few working hours during 2017)
-* 7/02 Hugo to Chris : 139,20 EUR (train ticket to Utrecht)
+* 9/01 Hugo to Chris : 998,00 EUR
+* 7/02 Hugo to Chris : 139,20 EUR
 * 16/02 Hugo to Jimm : 500 EUR
-! didn't update the total
 
 # Money out
 
@@ -31,8 +30,9 @@
    * James Stout:				0 EUR (all activities for the 1901 association done as a volunteer)
    * Suzanne Azmayesh:				0 EUR (all activities for the 1901 association done as a volunteer)
 
-* operations: (M) 18 = 18
+* operations: (M) 18 = 18, (C) 138 = 138
    * (M) tosback.org server at securedragon.net, 3 x 6 EUR
+   * (C) Train ticket to Utrecht : 138 EUR
 
 * compensation Michiel: ...
    * Wed 3 Jan: 5h30 working on points split
@@ -46,8 +46,7 @@
    * Sat 20 Jan: 14:00-16:00, 18:00-19:00 = 3h
    * Mon 5 Feb: 9:00-9:30, 12:30-17:00 = 5h
 
-* compensation Chris: tbp: 120 + 140 + 40 + 40 + 60 + 80 + 60 + 20 + 60 = 570
-   * Train ticker to Utrecht : 138 (paid on 7/02)
+* compensation Chris: 140 + 40 + 40 + 60 + 80 + 60 + 20 + 60 = 570
    * Tue 16 Jan: 11:00-12:30, 13:30-17:00, 20:00-22:00 = 7h = 140
    * Wed 17 Jan: 10:00-12:00 = 2h = 40
    * Tue 6 Feb: 20:00 - 22:00 = 2h = 40
