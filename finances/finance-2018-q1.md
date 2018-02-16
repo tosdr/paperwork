@@ -16,6 +16,7 @@
 # Money transfered
 * 9/01 Hugo to Chris : 998,00 EUR (500 for bootcamp, 240 for Dec 2017 work, 198 train to paris, 60 for few working hours during 2017)
 * 7/02 Hugo to Chris : 139,20 EUR (train ticket to Utrecht)
+* 16/02 Hugo to Jimm : 500 EUR
 ! didn't update the total
 
 # Money out
