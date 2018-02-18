@@ -2,7 +2,7 @@
 
 # All amounts in euros
 
-# Start: 3865.09 - 322.58 - 240 - 60 - 500 - 500 - 500 = 1742.51
+# Start: 3865.09 - 322.58 - 240 - 60 - 500 - 500 - 1040 = 1202.51
 (from https://github.com/tosdr/1901/blob/master/finances/finance-2017-q4.md )
 
 * kept safe by Hugo: 3865.09
@@ -11,7 +11,7 @@
 * kept safe by Pierre: -60
 * kept safe by Madeline: -500
 * kept safe by Ke: -500
-* kept safe by Jimm: -500
+* kept safe by Jimm: -540
 
 # Money transfered
 * 9/01 Hugo to Chris : 998,00 EUR (500 for bootcamp, 240 for Dec 2017 work, 198 train to paris, 60 for few working hours during 2017)
@@ -57,6 +57,10 @@
    * Wed 14 Feb: 23:00 - 00:00 = 1h = 20
    * Thu 15 Feb: 9:30 - 12:30 = 3h = 60
 
-
+* compensation Jimm (27 * 20 = 540 EUR:
+   * Jan 29 - Feb 2: 10 hours updating tosback3
+   * Feb 3-5: 13 hours installing new server and reinstalling tosback 2 & 3
+   * Feb 17: 3hrs adding requested site to TB2 and fixing some broken rules
+   * Feb 18: 1hr communication and accounting
 
 # Finish: ...
