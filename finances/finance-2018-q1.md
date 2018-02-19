@@ -2,7 +2,7 @@
 
 # All amounts in euros
 
-# Start: 3865.09 - 322.58 - 240 - 60 - 500 - 500 - 1040 = 1202.51
+# Start: 3865.09 - 322.58 - 240 - 60 - 500 - 500 - 500 = 1742.51
 (from https://github.com/tosdr/1901/blob/master/finances/finance-2017-q4.md )
 
 * kept safe by Hugo: 3865.09
@@ -11,7 +11,7 @@
 * kept safe by Pierre: -60
 * kept safe by Madeline: -500
 * kept safe by Ke: -500
-* kept safe by Jimm: -540
+* kept safe by Jimm: -500
 
 # Money transfered
 * 9/01 Hugo to Chris : 998,00 EUR (500 for bootcamp, 240 for Dec 2017 work, 198 train to paris, 60 for few working hours during 2017)
