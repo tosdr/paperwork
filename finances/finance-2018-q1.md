@@ -57,6 +57,10 @@
    * Wed 14 Feb: 23:00 - 00:00 = 1h = 20
    * Thu 15 Feb: 9:30 - 12:30 = 3h = 60
 
-
+* compensation Jimm (27 * 20 = 540 EUR:
+   * Jan 29 - Feb 2: 10 hours updating tosback3
+   * Feb 3-5: 13 hours installing new server and reinstalling tosback 2 & 3
+   * Feb 17: 3hrs adding requested site to TB2 and fixing some broken rules
+   * Feb 18: 1hr communication and accounting
 
 # Finish: ...
