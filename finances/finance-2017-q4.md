@@ -12,8 +12,6 @@
 
 # Money transfered
 
-* Hugo -> Chris 720 (when? 18 December?)
-
 # Money out
 
 (we now pay ourselves 20 euros/hour)
@@ -26,8 +24,9 @@
    * James Stout:				0 EUR (all activities for the 1901 association done as a volunteer)
    * Suzanne Azmayesh:				0 EUR (all activities for the 1901 association done as a volunteer)
 
-* operations: (M) 18 = 18
+* operations: (M) 18 = 18, (C) 198 = 198
    * (M) tosback.org server at securedragon.net, 3 x 6 EUR
+   * (C) train ticket to Paris to meet CNIL (15 December 2017), 198
 
 * compensation Michiel: `(3+3.5+0.5+1.5)*20` = 170
    * Thu 14 Dec: Worked on database migration, 0h15 + 1h30 + 1h15 = 3h
@@ -50,11 +49,11 @@
   * 20 hours working on tosback
   * 5 hours working on phoenix
 
-# Finish: 3865.09 - 322.58 - 240 - 60 - 500 - 500 - 500 = 1742.51
+# Finish: 4585.09 - 322.58 - 1158 - 60 - 500 - 500 - 500 = 1544.51
 
-* kept safe by Hugo: 4585.09 - 720 = 3865.09
+* kept safe by Hugo: 4585.09 = 4585.09
 * kept safe by Michiel: -134.58 - 18 - 170 = -322.58
-* kept safe by Chris: -220 + 720 - 740 = -240
+* kept safe by Chris: -220 - 740 - 198 = -1158
 * kept safe by Pierre: -60
 * kept safe by Madeline: -500
 * kept safe by Ke: -500
