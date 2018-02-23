@@ -55,6 +55,7 @@
    * Wed 14 Feb: 23:00 - 00:00 = 1h = 20
    * Thu 15 Feb: 9:30 - 12:30 = 3h = 60
    * Thu 22 Feb: 13:00 - 15h00 = 2h = 40
+   * Fri 23 Feb: 9:00 - 10:00 = 1h = 20
 
 * compensation Jimm (27 * 20 = 540 EUR:
    * Jan 29 - Feb 2: 10 hours updating tosback3
