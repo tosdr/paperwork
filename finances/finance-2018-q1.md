@@ -29,9 +29,11 @@
    * James Stout:				0 EUR (all activities for the 1901 association done as a volunteer)
    * Suzanne Azmayesh:				0 EUR (all activities for the 1901 association done as a volunteer)
 
-* operations: (M) 18 = 18, (C) 138 = 138
+* operations: (M) 18 + 40.24 + 72.10 = 130.43, (C) 138 = 138
    * (M) tosback.org server at securedragon.net, 3 x 6 EUR
    * (C) Train ticket to Utrecht : 138 EUR
+   * (M) airbnb Brussels hackathon, 40.24
+   * (M) train Brussels hackathon, 72.10
 
 * compensation Michiel: ...
    * Wed 3 Jan: 5h30 working on points split
@@ -44,6 +46,8 @@
    * Thu 18 Jan: 10:00-11:00 = 1h
    * Sat 20 Jan: 14:00-16:00, 18:00-19:00 = 3h
    * Mon 5 Feb: 9:00-9:30, 12:30-17:00 = 5h
+   * Tue 27 Feb: 9:30-10:30 crowdfunding = 1h
+   * Fri 2 Mar: 11:30-13:00 crowdfunding = 1h30
 
 * compensation Chris: 140 + 40 + 40 + 60 + 80 + 60 + 20 + 60 + 40 + 20 + 40 + 20 + 40 = 660
    * Tue 16 Jan: 11:00-12:30, 13:30-17:00, 20:00-22:00 = 7h = 140
