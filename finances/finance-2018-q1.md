@@ -66,10 +66,19 @@
    * Thu 1 March: 17:30 - 19:30 = 2h = 40
    * Fri 2 March: 11:30 - 13h30 = 2h = 40 
    
-* compensation Jimm (27 * 20 = 540 EUR:
+* compensation Jimm ((27 + 15) * 20 = 840 EUR):
+   * 27 hours:
    * Jan 29 - Feb 2: 10 hours updating tosback3
    * Feb 3-5: 13 hours installing new server and reinstalling tosback 2 & 3
    * Feb 17: 3hrs adding requested site to TB2 and fixing some broken rules
    * Feb 18: 1hr communication and accounting
+   * 15 hours:
+   * Feb 19: 2.5hrs helping CNIL/communicating/fixing broken rule
+   * Feb 22: .5hrs helping CNIL
+   * Feb 25: 2.25hrs merging commits for importing xml and versions into tb3 and fixing fussy rule
+   * Feb 26: 1.5hrs working on rule and crawl importing
+   * Feb 27: 2.5hr working on policy version import
+   * Feb 28: 3.5hrs tosback3
+   * Mar 04: 2.25hrs tosback3 view and import updates
 
 # Finish: ...
