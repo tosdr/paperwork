@@ -49,7 +49,7 @@
    * Tue 27 Feb: 9:30-10:30 crowdfunding = 1h
    * Fri 2 Mar: 11:30-13:00 crowdfunding = 1h30
 
-* compensation Chris: 140 + 40 + 40 + 60 + 80 + 60 + 20 + 60 + 40 + 20 + 40 + 20 + 40 + 40 + 40 = 700
+* compensation Chris: 140 + 40 + 40 + 60 + 80 + 60 + 20 + 60 + 40 + 20 + 40 + 20 + 40 + 40 + 40 + 20 = 720
    * Tue 16 Jan: 11:00-12:30, 13:30-17:00, 20:00-22:00 = 7h = 140
    * Wed 17 Jan: 10:00-12:00 = 2h = 40
    * Tue 6 Feb: 20:00 - 22:00 = 2h = 40
@@ -65,6 +65,7 @@
    * Tue 27 Feb: 16:00 - 18:00 = 2h = 40
    * Thu 1 March: 17:30 - 19:30 = 2h = 40
    * Fri 2 March: 11:30 - 13h30 = 2h = 40 
+   * Mon 5 March: 9h30 - 10h30 = 1h = 20
    
 * compensation Jimm ((27 + 15) * 20 = 840 EUR):
    * 27 hours:
