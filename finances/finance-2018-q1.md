@@ -93,8 +93,3 @@
 * kept safe by Madeline: -500
 * kept safe by Ke: -500
 * kept safe by Jimm: -500 + 500 - 840 = -840
-
-# Money transfered
-* 9/01 Hugo to Chris : 998,00 EUR
-* 7/02 Hugo to Chris : 139,20 EUR
-* 16/02 Hugo to Jimm : 500 EUR
