@@ -35,7 +35,7 @@
    * (M) airbnb Brussels hackathon, 40.24
    * (M) train Brussels hackathon, 72.10
 
-* compensation Michiel: ...
+* compensation Michiel: (5.5 + 1.5 + 1 + 5 + 2 + 7 + 2 + 1 + 3 + 5 + 1 + 1.5 + 6 + 7) * 20 = 970
    * Wed 3 Jan: 5h30 working on points split
    * Thu 4 Jan: 1h30 working on Services export
    * Sat 6 Jan: 1h privacy practices designation
@@ -48,8 +48,10 @@
    * Mon 5 Feb: 9:00-9:30, 12:30-17:00 = 5h
    * Tue 27 Feb: 9:30-10:30 crowdfunding = 1h
    * Fri 2 Mar: 11:30-13:00 crowdfunding = 1h30
+   * Thu 8 Mar: 11:00-17:00 crowdfunding = 6h
+   * Fri 9 Mar: 9:00-12:30, 13:00-16:30, crowdfunding = T7
 
-* compensation Chris: 140 + 40 + 40 + 60 + 80 + 60 + 20 + 60 + 40 + 20 + 40 + 20 + 40 + 40 + 40 + 20 = 720
+* compensation Chris: 140 + 40 + 40 + 60 + 80 + 60 + 20 + 60 + 40 + 20 + 40 + 20 + 40 + 40 + 40 + 20 = 760
    * Tue 16 Jan: 11:00-12:30, 13:30-17:00, 20:00-22:00 = 7h = 140
    * Wed 17 Jan: 10:00-12:00 = 2h = 40
    * Tue 6 Feb: 20:00 - 22:00 = 2h = 40
@@ -82,4 +84,17 @@
    * Feb 28: 3.5hrs tosback3
    * Mar 04: 2.25hrs tosback3 view and import updates
 
-# Finish: ...
+# Finish: 2947.89 - 1423.01 - 1058 - 60 - 500 - 500 - 840 = -1433.12
+
+* kept safe by Hugo: 4585.09 - 998 - 139.20 - 500 = 2947.89
+* kept safe by Michiel: -322.58 - 130.43 - 970 = -1423.01
+* kept safe by Chris: -1158 + 998 + 139.20 - 138 - 760 = -918
+* kept safe by Pierre: -60
+* kept safe by Madeline: -500
+* kept safe by Ke: -500
+* kept safe by Jimm: -500 + 500 - 840 = -840
+
+# Money transfered
+* 9/01 Hugo to Chris : 998,00 EUR
+* 7/02 Hugo to Chris : 139,20 EUR
+* 16/02 Hugo to Jimm : 500 EUR
