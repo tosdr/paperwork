@@ -16,7 +16,7 @@
 * 9/01 Hugo to Chris : 998,00 EUR
 * 7/02 Hugo to Chris : 139,20 EUR
 * 16/02 Hugo to Jimm : 500 EUR
-* 0/03 Hugo to Chris: 660,00 EUR
+* 9/03 Hugo to Chris: 660,00 EUR
 
 # Money out
 
