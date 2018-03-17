@@ -69,15 +69,16 @@
    * Thu 1 March: 17:30 - 19:30 = 2h = 40
    * Fri 2 March: 11:30 - 13:30 = 2h = 40 
    * Mon 5 March: 9:30 - 10:30 = 1h = 20
-   ---- Campaign
-   * Thu 8 March: 11:00 - 17:00 = 6h = 120
-   * Fri 9 March: 9:00  - 16:00 = 7h = 140
-   * Sat 10 March: 18:00 - 00:00 = 6h = 120
-   * Sun 11 March: 19:00 - 00:00 = 6h = 120
-   * Mon 12 March: 21:00 - 00:00 = 3h = 60
-   * Tue 13 March: 16:00 - 18:00 = 2h = 60
-   * Wed 14 March: 10:00 - 11:00 = 1h = 20
-   * Thu 15 March: 10:00 - 11:00 = 1h = 20
+   * Campaign
+     * Thu 8 March: 11:00 - 17:00 = 6h = 120
+     * Fri 9 March: 9:00  - 16:00 = 7h = 140
+     * Sat 10 March: 18:00 - 00:00 = 6h = 120
+     * Sun 11 March: 19:00 - 00:00 = 6h = 120
+     * Mon 12 March: 21:00 - 00:00 = 3h = 60
+     * Tue 13 March: 16:00 - 18:00 = 2h = 60
+     * Wed 14 March: 10:00 - 11:00 = 1h = 20
+     * Thu 15 March: 10:00 - 11:00 = 1h = 20
+     * Sat 17 March: 8:00 - 9:00 + 22:00 - 23:00 = 2h = 40
    
 * compensation Jimm ((27 + 15) * 20 = 840 EUR):
    * 27 hours:
