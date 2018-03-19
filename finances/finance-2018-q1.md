@@ -80,6 +80,7 @@
      * Wed 14 March: 10:00 - 11:00 = 1h = 20
      * Thu 15 March: 10:00 - 11:00 = 1h = 20
      * Sat 17 March: 8:00 - 9:00 + 22:00 - 23:00 = 2h = 40
+     * Mon 19 March: 22:30 - 23:30 = 1h = 20
    
 * compensation Jimm ((27 + 15) * 20 = 840 EUR):
    * 27 hours:
