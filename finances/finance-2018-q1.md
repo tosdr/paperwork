@@ -36,7 +36,7 @@
    * (M) airbnb Brussels hackathon, 40.24
    * (M) train Brussels hackathon, 72.10
 
-* compensation Michiel: (5.5 + 1.5 + 1 + 5 + 2 + 7 + 2 + 1 + 3 + 5 + 1 + 1.5 + 6 + 7) * 20 = 970
+* compensation Michiel: (5.5 + 1.5 + 1 + 5 + 2 + 7 + 2 + 1 + 3 + 5 + 1 + 1.5 + 6 + 7 + ...) * 20 = ...
    * Wed 3 Jan: 5h30 working on points split
    * Thu 4 Jan: 1h30 working on Services export
    * Sat 6 Jan: 1h privacy practices designation
@@ -50,7 +50,8 @@
    * Tue 27 Feb: 9:30-10:30 crowdfunding = 1h
    * Fri 2 Mar: 11:30-13:00 crowdfunding = 1h30
    * Thu 8 Mar: 11:00-17:00 crowdfunding = 6h
-   * Fri 9 Mar: 9:00-12:30, 13:00-16:30, crowdfunding = T7
+   * Fri 9 Mar: 9:00-12:30, 13:00-16:30, crowdfunding = 7h
+   * Tue 13 March: 16:00 - 18:00 = 2h
 
 * compensation Chris: 140 + 40 + 40 + 60 + 80 + 60 + 20 + 60 + 40 + 20 + 40 + 20 + 40 + 40 + 40 + 20 = 760
    * Tue 16 Jan: 11:00-12:30, 13:30-17:00, 20:00-22:00 = 7h = 140
