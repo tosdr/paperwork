@@ -8,8 +8,8 @@
 * kept safe by Michiel: -322.58
 * kept safe by Chris: -1158
 * kept safe by Pierre: -60
-* kept safe by Madeline: -500
-* kept safe by Ke: -500
+* kept safe by Madeline: 0
+* kept safe by Ke: 0
 * kept safe by Jimm: -500
 
 # Money transfered
@@ -17,6 +17,8 @@
 * 7/02 Hugo to Chris : 139,20 EUR
 * 16/02 Hugo to Jimm : 500 EUR
 * 9/03 Hugo to Chris: 660,00 EUR
+* 7/04 Hugo to Ke Thien: 500 EUR
+* 1/05 Hugo to Madeline: 500 EUR
 
 # Money out
 
