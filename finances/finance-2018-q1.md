@@ -36,7 +36,7 @@
    * (M) airbnb Brussels hackathon, 40.24
    * (M) train Brussels hackathon, 72.10
 
-* compensation Michiel: (5.5 + 1.5 + 1 + 5 + 2 + 7 + 2 + 1 + 3 + 5 + 1 + 1.5 + 6 + 7 + ...) * 20 = ...
+* compensation Michiel: (5.5 + 1.5 + 1 + 5 + 2 + 7 + 2 + 1 + 3 + 5 + 1 + 1.5 + 6 + 7 + 2) * 20 = 1010
    * Wed 3 Jan: 5h30 working on points split
    * Thu 4 Jan: 1h30 working on Services export
    * Sat 6 Jan: 1h privacy practices designation
@@ -53,27 +53,27 @@
    * Fri 9 Mar: 9:00-12:30, 13:00-16:30, crowdfunding = 7h
    * Tue 13 March: 16:00 - 18:00 = 2h
 
-* compensation Chris: 140 + 40 + 40 + 60 + 80 + 60 + 20 + 60 + 40 + 20 + 40 + 20 + 40 + 40 + 40 + 20 + 20 + 120 + 40 = 1540
+* compensation Chris: (140 + 40 + 40 + 60 + 80) + (60 + 20 + 60 + 40 + 20) + (40 + 20 + 40 + 40 + 40 + 20) + 720 = 1480
    * Tue 16 Jan: 11:00-12:30, 13:30-17:00, 20:00-22:00 = 7h = 140
    * Wed 17 Jan: 10:00-12:00 = 2h = 40
    * Tue 6 Feb: 20:00 - 22:00 = 2h = 40
    * Wed 7 Feb: 9:00 - 11:00 = 3h = 60
    * Fri 9 Feb: 9:00 - 12:00 = 4h = 80
+
    * Mon 12 Feb: 10:00 - 12:00 + 15:00 - 16h00 = 3h = 60
    * Wed 14 Feb: 23:00 - 00:00 = 1h = 20
    * Thu 15 Feb: 9:30 - 12:30 = 3h = 60
    * Thu 22 Feb: 13:00 - 15h00 = 2h = 40
    * Fri 23 Feb: 9:00 - 10:00 = 1h = 20
+
    * Sat 24 Feb: 10:00 - 12:00 = 2h = 40
    * Sun 25 Feb: 10:00 - 11:00 = 1h = 20
    * Tue 27 Feb: 16:00 - 18:00 = 2h = 40
    * Thu 1 March: 17:30 - 19:30 = 2h = 40
    * Fri 2 March: 11:30 - 13:30 = 2h = 40 
    * Mon 5 March: 9:30 - 10:30 = 1h = 20
-   * Fri 6 April: 14:30 - 18:30 = 4h = 20
-   * Mon 16 April: 11:00 - 17:00 = 6h = 120
-   * Thu 19 Arpil: 10:00 - 12:00 = 2h = 40
-   * Campaign = 720
+
+   * Campaign = 120 + 140 + 120 + 120 + 60 + 60 + 20 + 20 + 40 + 20 = 720
      * Thu 8 March: 11:00 - 17:00 = 6h = 120
      * Fri 9 March: 9:00  - 16:00 = 7h = 140
      * Sat 10 March: 18:00 - 00:00 = 6h = 120
@@ -100,11 +100,11 @@
    * Feb 28: 3.5hrs tosback3
    * Mar 04: 2.25hrs tosback3 view and import updates
 
-# Finish: 2947.89 - 1423.01 - 1058 - 60 - 500 - 500 - 840 = -1433.12
+# Finish: 2287.89 - 1463.01 - 978.80 - 60 - 500 - 500 - 840 = -2053.92
 
-* kept safe by Hugo: 4585.09 - 998 - 139.20 - 500 = 2947.89
-* kept safe by Michiel: -322.58 - 130.43 - 970 = -1423.01
-* kept safe by Chris: -1158 + 998 + 139.20 - 138 - 760 = -918
+* kept safe by Hugo: 4585.09 - 998 - 139.20 - 500 - 660 = 2287.89
+* kept safe by Michiel: -322.58 - 130.43 - 1010 = -1463.01
+* kept safe by Chris: -1158 + 998 + 139.20 + 660 - 138 - 1480 = -978.80
 * kept safe by Pierre: -60
 * kept safe by Madeline: -500
 * kept safe by Ke: -500
