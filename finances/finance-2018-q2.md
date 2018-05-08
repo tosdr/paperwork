@@ -44,6 +44,7 @@
    * Between the 25 and the 27, worked around 6h for various administrative tasks: 6h = 120€
    * Mon 30/04 - Wed 2/05 : 5h = 100 (bug fixes from hell)
    * Fri 4/05 : 5h = 100
+   * Mon 8/05 : 3h = 60
    
 # Finish: ...
 
