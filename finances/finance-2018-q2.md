@@ -33,7 +33,11 @@
    * (M) tosback.org server at securedragon.net, 3 x 6 EUR
 
 * compensation Michiel: ...
-  
+   * Wed 2 May: resume work on export script, 2h
+   * Fri 4 May: 9-13:30 points renumber, 15-16:30 services export -> 6h
+   * Tue 8 May: 12:45-15:45 prepare for export with phoenix ids -> 3h
+   * Wed 9 May: 9-13 prepare for export with phoenix ids -> 4h
+
 * compensation Chris: ...
    * Fri 6 April: 14:30 - 18:30 = 4h = 20
    * Mon 16 April: 11:00 - 17:00 = 6h = 120
