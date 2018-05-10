@@ -44,6 +44,7 @@
    * Thu 19 April: 10:00 - 12:00 = 2h = 40
    * Fri 23 April: 15:00 - 17:00 = 2h = 40
    * Tue 24 April: 18:00 - 19:00 = 1h = 20
+   * Mon 9 May: 16:00 - 18:00 = 2h = 40
 
    * Between the 25 and the 27, worked around 6h for various administrative tasks: 6h = 120€
    * Mon 30/04 - Wed 2/05 : 5h = 100 (bug fixes from hell)
