@@ -37,6 +37,7 @@
    * Fri 4 May: 9-13:30 points renumber, 15-16:30 services export -> 6h
    * Tue 8 May: 12:45-15:45 prepare for export with phoenix ids -> 3h
    * Wed 9 May: 9-13 prepare for export with phoenix ids -> 4h
+   * Mon 14 May: 13:30-17:00 iron out ids and slugs mapping, found lots of missing points in phoenix -> 3h30
 
 * compensation Chris: ...
    * Fri 6 April: 14:30 - 18:30 = 4h = 20
