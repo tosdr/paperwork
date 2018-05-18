@@ -12,6 +12,10 @@
 * kept safe by Ke: -500
 * kept safe by Jimm: -840
 
+# Money in: 19000
+* DuckDuckGo challenge, crowdfunding from contributors: 3515 USD ~= 3000 EUR # see https://www.crowdrise.com/o/en/campaign/tosdr
+* DuckDuckGo challenge, bonuses from DDG: 18,895.49 USD ~= 16000 EUR  # see https://www.crowdrise.com/duckduckgoprivacychallenge?lang=en-us
+
 # Money transfered
 * 7/04 Hugo to Ke Thien: 500 EUR
 * 1/05 Hugo to Madeline: 500 EUR
@@ -38,6 +42,10 @@
    * Tue 8 May: 12:45-15:45 prepare for export with phoenix ids -> 3h
    * Wed 9 May: 9-13 prepare for export with phoenix ids -> 4h
    * Mon 14 May: 13:30-17:00 iron out ids and slugs mapping, found lots of missing points in phoenix -> 3h30
+   * Tue 15 May: 9-12 iron out ids and slugs mapping, found lots of missing points in phoenix -> 3h
+   * Wed 16 May: 10-13 iron out ids and slugs mapping, found lots of missing points in phoenix -> 3h
+   * Thu 17 May: 9:45-11:15 add rest of missing points, 14-16 migrate, 16-17 resume posts/comments import -> 4h30
+   * Fri 18 May: 13-17 https://github.com/tosdr/phoenix/issues/355 -> 4h
 
 * compensation Chris: ...
    * Fri 6 April: 14:30 - 18:30 = 4h = 20
@@ -52,9 +60,10 @@
    * Mon 7 May : 3h = 60
    * Sat - Sun 12 May - 13/05 = 4h = 80
    * Wed 16 May : 3h = 60
-   
+
 # Finish: ...
 
+* kept safe by NLNet: ~19000
 * kept safe by Hugo: 2287.89 - 500 - 500 + ...
 * kept safe by Michiel: -1463.01 - 18 + ...
 * kept safe by Chris: -978.80 + ...
