@@ -61,6 +61,11 @@
    * Sat - Sun 12 May - 13/05 = 4h = 80
    * Wed 16 May : 3h = 60
 
+* compensation Vincent: ...
+   * Tue 22 May: UX fixes, investigate performance issue -> 4h
+   * Wed 23 May: UX fixes, fix performance issue -> 4h
+   * Thur 24 May: Process pull requests, initiate roadmap -> 1h
+
 # Finish: ...
 
 * kept safe by NLNet: ~19000
