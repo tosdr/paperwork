@@ -46,6 +46,10 @@
    * Wed 16 May: 10-13 iron out ids and slugs mapping, found lots of missing points in phoenix -> 3h
    * Thu 17 May: 9:45-11:15 add rest of missing points, 14-16 migrate, 16-17 resume posts/comments import -> 4h30
    * Fri 18 May: 13-17 https://github.com/tosdr/phoenix/issues/355 -> 4h
+   * Tue 22 May: 10:40-13:10 look at cases PR, 14:10-16:40 fix import -> 5h
+   * Wed 23 May: 9:30-17 (1h30 break) -> 6h
+   * Thu 24 May: 8:30-11:30 -> 3h
+   * Fri 25 May: 10-12,14-17 -> 5h
 
 * compensation Chris: ...
    * Fri 6 April: 14:30 - 18:30 = 4h = 20
