@@ -1,0 +1,243 @@
+::
+
+    Title: Statutes of ToS;DR
+    DRACC: 00XX, ToS;DR-0000
+    Category: Regulatory
+    Scope: Programme
+    Authors: Leenaars, M.A.G.J.; Meijer, J.; Aben, G.; Šuklje, M.
+    Date: April 2018
+
+**This document is copyright: The Commons Conservancy and ToS;DR. It can 
+be used under a Creative Commons Attribution 4.0 International license.**
+
+Purpose
+=======
+
+The ToS;DR Programme (in short: ToS;DR) has been established to
+facilitate an open, transparent and efficient governance process
+throughout the future development of the technology and auxiliary
+materials (such as documentation, tests, validators and tutorials)
+developed within the ToS;DR user and development community.
+
+ToS;DR seeks to provide guidance, oversight and coordination of
+activities as well as a long-term, multi-stakeholder and architectural
+perspective.
+
+Legal Status
+============
+
+ToS;DR is the name of a not-for-profit technical and creative
+community effort serving the public benefit. ToS;DR is established
+as a Programme within The Commons Conservancy. The Commons
+Conservancy is a not-for-profit foundation ('Stichting') established
+under The Netherlands law.
+
+Terms contained in this document refer to the respective definitions of
+these terms within the regulations of The Commons Conservancy, unless
+explicitly noted otherwise. The Programme is subject to the conditions
+set forth in the Statutes and Regulations of The Commons Conservancy,
+more in particular to the conditions stipulated in The Commons
+Conservancy DRACC 0002. References to the Statutes or Regulations of
+ToS;DR therefore automatically mean the combination of the Statutes
+and Regulations of the Programme and those of The Commons Conservancy.
+
+Any decisions made or approved by the ToS;DR Board of Directors
+within the scope of its mandate will be handled according to the
+procedure set out in DRACC "Decision Handling Procedure". New (versions
+of) ToS;DR Statutes and Regulations enter into effect when they are
+published as part of the DRACC series of The Commons Conservancy.
+
+Financial considerations
+========================
+
+ToS;DR operates on a nil budget, which means there are no direct
+financial considerations.
+
+ToS;DR Board of Directors determines the desired direction of the
+development of technology and auxiliary materials. At the request of
+grantmaking organisations, donors and partners, ToS;DR MAY provide
+guidance to others on and inspiration with regards to the establishment
+and evaluation of activities. ToS;DR itself will have no direct
+financial involvement in such activities under any circumstances.
+
+Governance
+==========
+
+The central decision making body within ToS;DR is the ToS;DR
+Board of Directors (in short: ToS;DR Board). The ToS;DR Board is
+a meritocratic committee responsible for making and coordinating
+decisions on behalf of the user and developer community around
+ToS;DR, according to the conditions set forth in these Statutes as
+well as any Regulations established by prior decisions of the ToS;DR
+Board.
+
+The ToS;DR Board has a minimum of three, and a maximum of seven
+natural persons. The founding ToS;DR Board has appointed a number of
+its constituting Directors to serve a half (12 month) term, and the
+remainder to serve a regular (24 month) term. Subsequent Directors are
+elected by the ToS;DR Board to regular 24 month terms according to
+the procedure set out in these Statutes. Directors are permitted to seek
+office for multiple terms, however, when running against other
+candidates the amount of terms they have consecutively served is
+deducted from the votes cast in their favour. This provides a balance
+between continuity, equal opportunities and renewal of qualities and
+competences.
+
+The ToS;DR Board determines the Programme's structure and processes,
+and is responsible for maintaining its Statutes and Regulations. The
+ToS;DR Board is free to make or revise any decision, taking into
+consideration applicable law as well as any immutable conditions
+previously established within the Statutes or Regulations.
+
+In order to efficiently fulfill its tasks, the Board may establish
+specialized committees and taskforces, as well as assign named roles to
+qualified individuals to provide advice and assistance on specific
+issues. The associated qualifications, tasks and responsibilities SHALL
+be formalised by publication as part of the Regulations of ToS;DR.
+
+The ToS;DR Board (and any person, group or organisation mandated by
+the ToS;DR Board on its behalf) must act in good faith and in the
+common interest of the developer community and the wider user community
+of ToS;DR. If significant harm to the organization has been
+committed by any Director, he or she MAY be removed from the Board by a
+simple majority vote of the rest of the Board.
+
+The ToS;DR Board SHALL convene offline or online at least every
+twelve (12) months.
+
+Voting procedure
+================
+
+Any two ToS;DR Directors MAY jointly organise a vote of the
+ToS;DR Board on any subject, after which a notification SHALL be
+sent out by email to each Director detailing the proposed action and the
+deadline.
+
+Each Director is entitled to one (1) vote on each matter submitted to a
+vote. Voting happens through an electronic voting system, by email vote
+or by a quorate (online) meeting. A quorum is reached when all Directors
+are either (tele)present, have appointed a proxy or have indicated they
+will abstain from voting.
+
+It is the responsibility of each Director to maintain valid contact
+details for communication within the Board. When a Director does not
+respond to multiple communication requests or invitations to vote for a
+period of one month across at least two different channels, he or she is
+removed from the quorum count until contact is restored.
+
+Regular decisions of the ToS;DR Board are taken by a simple
+majority. Any amendment to these Statutes requires a consensus of the
+entire ToS;DR Board minus one Director. In all cases, the Chair of
+the ToS;DR board casts the deciding vote in case of a tie.
+
+Each Director agrees to use his best efforts to resolve disputes in an
+informal manner.
+
+Integrity
+=========
+
+All ToS;DR Directors (as well as any persons the ToS;DR Board
+have delegated tasks and/or responsibilities to) are understood to act
+as fiduciaries with regard to the ToS;DR Programme, and their duties
+include, but are not limited to, the fiduciary duty of care and the
+fiduciary duty of loyalty.
+
+Directors SHOULD NOT receive any personal benefit as a result of a
+pending decision -- he or she is required to explain the circumstances
+and avoid taking any part in the decision.
+
+Any conflict of interest or apparent conflict of interest between
+ToS;DR and individual Directors MUST be avoided. Directors undertake
+to declare any interest in any item under discussion and MAY be invited
+by the ToS;DR Chair to withdraw from discussions when business
+concerning their personal interests or the interests of natural or legal
+persons close to them is being dealt with. Directors MUST heed such an
+invitation and at the very least abstain from voting.
+
+Decisions involving activities under which one or more Directors would
+have conflicts of interest that are of material significance to the
+Programme and/or to the relevant Director(s) require the approval of the
+entire ToS;DR Board minus the Director(s) with a conflict of
+interest.
+
+Licensing policy
+================
+
+All software and content created or maintained within ToS;DR is to
+be made publically available perpetually at no cost under one or more of
+the licenses on the Free Software Foundation's list of "recommended
+copyleft licenses" or any license approved by the Open Source Initiative
+on or after the submission date.
+
+When additional licensing needs (which would make the identical software
+or assets available also through licenses not on those lists) arise, the
+ToS;DR Board is responsible for deciding on a case by case basis how
+this shall be best dealt with. In such matters the Board SHALL act in
+the common interest of the user and developer community, respectful of
+the spirit and intents of the original creators of and contributors to
+ToS;DR.
+
+Any financial benefits resulting from licensing agreements with third
+parties shall exclusively be directed towards a not-for-profit
+organisation aligned with the goals of ToS;DR as contribution to the
+future development and maintenance of ToS;DR. These contributions
+shall be spent under the responsibility of the ToS;DR Board, on
+behalf of the ToS;DR user and developer community and in the general
+public interest.
+
+Transition into these Statutes
+==============================
+
+The following decisions are ratified by the signatories when these
+Statutes take effect:
+
+-  The founding ToS;DR Board shall be comprised of the individuals
+   acting as signatories of the initial version of these Statutes, the
+   act of which also has established all signees as Directors.
+-  Michiel DE JONG is appointed as the ToS;DR Chair for a period of 12 months.
+-  Christopher TALIB is appointed as the ToS;DR Vice-Chair for a period of 
+   12 months.
+-  James STOUT and Hugo ROY are appointed as Director of the ToS;DR Board for a
+   period of 12 month.
+-  Suzanne AZMAYESH and Jan-Christoph BORCHARDT are appointed as Directors of 
+   the ToS;DR Board for a period of 24 months.
+-  The ToS;DR Board commits to identify and approach all rights holders, and
+   ask them to transfer the moral stewardship of the codebase to the ToS;DR
+   Programme.
+
+Agreed on (date), (location) by:
+
+
+
+_______________________
+Michiel DE JONG (chair)
+
+
+
+_______________________
+Suzanne AZMAYESH
+
+
+
+_______________________
+Hugo ROY
+
+
+
+_______________________
+Jan-Christoph BORCHARDT
+
+
+
+_______________________
+James STOUT
+
+
+
+_______________________
+Ian MCGOWAN
+
+
+
+_______________________
+Christopher TALIB
