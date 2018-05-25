@@ -144,8 +144,10 @@ fiduciary duty of loyalty.
 
 Directors SHOULD NOT receive any personal benefit as a result of a
 pending decision -- he or she is required to explain the circumstances
-and avoid taking any part in the decision.
-
+and avoid taking any part in the decision. An explicit exception to this
+is the compensation received in relation to project work, which should
+always be less than market rate, and as of June 2018 stands at 20 euros/hour.
+ 
 Any conflict of interest or apparent conflict of interest between
 ToS;DR and individual Directors MUST be avoided. Directors undertake
 to declare any interest in any item under discussion and MAY be invited
@@ -197,10 +199,9 @@ Statutes take effect:
 -  Michiel DE JONG is appointed as the ToS;DR Chair for a period of 12 months.
 -  Christopher TALIB is appointed as the ToS;DR Vice-Chair for a period of 
    12 months.
--  James STOUT and Hugo ROY are appointed as Director of the ToS;DR Board for a
-   period of 12 month.
--  Suzanne AZMAYESH and Jan-Christoph BORCHARDT are appointed as Directors of 
-   the ToS;DR Board for a period of 24 months.
+-  Madeline O'LEARY, Vincent TUNRU, James STOUT, Hugo ROY and Jan-Christoph
+   BORCHARDT are appointed as Directors of the ToS;DR Board for a period of
+   24 months.
 -  The ToS;DR Board commits to identify and approach all rights holders, and
    ask them to transfer the moral stewardship of the codebase to the ToS;DR
    Programme.
@@ -215,7 +216,22 @@ Michiel DE JONG (chair)
 
 
 _______________________
-Suzanne AZMAYESH
+Christopher TALIB (vice-chair)
+
+
+
+_______________________
+Madeline O'LEARY
+
+
+
+_______________________
+Vincent TUNRU
+
+
+
+_______________________
+James STOUT
 
 
 
@@ -230,14 +246,4 @@ Jan-Christoph BORCHARDT
 
 
 _______________________
-James STOUT
-
-
-
-_______________________
 Ian MCGOWAN
-
-
-
-_______________________
-Christopher TALIB
