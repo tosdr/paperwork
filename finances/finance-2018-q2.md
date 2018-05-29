@@ -69,6 +69,8 @@
    * Tue 22 May: UX fixes, investigate performance issue -> 4h
    * Wed 23 May: UX fixes, fix performance issue -> 4h
    * Thur 24 May: Process pull requests, initiate roadmap -> 1h
+   * Mon 28 May: 1h
+   * Tue 29 May: 3h
 
 # Finish: ...
 
