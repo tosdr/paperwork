@@ -19,6 +19,7 @@
 # Money transfered
 * 7/04 Hugo to Ke Thien: 500 EUR
 * 1/05 Hugo to Madeline: 500 EUR
+* 30/05 Michiel to Chris: 1000 EUR
 
 # Money out
 
