@@ -34,8 +34,11 @@
    * Ian McGowan:				0 EUR (all activities for the board done as a volunteer)
    
 * operations: (M) 18 = 18 + ...
-   * (M) tosback.org server at securedragon.net, 3 x 6 EUR
-
+   * (M) tosback.org server at securedragon.net, 3 x 6 = 18 EUR
+   * (M) T-shirts Phoenix Dev Team (10.46 + 4 * 13) = 62.56 EUR
+   * (M) Train tickets to BXL 16/17 June Vincent and me: 217.60 EUR
+   * (M) AirBnb 16/17 June: 120 EUR
+   
 * compensation Michiel: ...
    * Wed 2 May: resume work on export script, 2h
    * Fri 4 May: 9-13:30 points renumber, 15-16:30 services export -> 6h
@@ -50,6 +53,9 @@
    * Wed 23 May: 9:30-17 (1h30 break) -> 6h
    * Thu 24 May: 8:30-11:30 -> 3h
    * Fri 25 May: 10-12,14-17 -> 5h
+   * Mon 28 May: 9-12 -> 3h
+   * Tue 29 May: 11-13 admin for phoenix summit, 14-16 point status import -> 4h
+   * Wed 30 May: 12:30-... point status import
 
 * compensation Chris: ...
    * Fri 6 April: 14:30 - 18:30 = 4h = 20
