@@ -64,13 +64,13 @@
    * Thu 19 April: 10:00 - 12:00 = 2h = 40
    * Fri 23 April: 15:00 - 17:00 = 2h = 40
    * Tue 24 April: 18:00 - 19:00 = 1h = 20
-
    * Between the 25 and the 27, worked around 6h for various administrative tasks: 6h = 120€
    * Mon 30 April - Wed 2 May : 5h = 100 (bug fixes from hell)
    * Fri 4 May : 5h = 100
    * Mon 7 May : 3h = 60
    * Sat - Sun 12 May - 13/05 = 4h = 80
    * Wed 16 May : 3h = 60
+   * Thy 31 May : 1h = 20
 
 * compensation Vincent: ...
    * Tue 22 May: UX fixes, investigate performance issue -> 4h
