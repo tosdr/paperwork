@@ -56,7 +56,8 @@
    * Fri 25 May: 10-12,14-17 -> 5h
    * Mon 28 May: 9-12 -> 3h
    * Tue 29 May: 11-13 admin for phoenix summit, 14-16 point status import -> 4h
-   * Wed 30 May: 12:30-... point status import
+   * Wed 30 May: 12:30-15:30 point status import -> 3h
+   * Fri 1 Jun: 12-16 tosback integration -> 4h
 
 * compensation Chris: ...
    * Fri 6 April: 14:30 - 18:30 = 4h = 20
