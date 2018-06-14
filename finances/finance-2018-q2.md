@@ -40,6 +40,7 @@
    * (M) T-shirts Phoenix Dev Team (10.46 + 4 * 13) = 62.56 EUR
    * (M) Train tickets to BXL 16/17 June Vincent and me: 217.60 EUR
    * (M) AirBnb 16/17 June: 120 EUR
+   * (MOL) Train tickets to BXL 16/17 June for Madeline O: 150.0 EUR
    
 * compensation Michiel: ...
    * Wed 2 May: resume work on export script, 2h
