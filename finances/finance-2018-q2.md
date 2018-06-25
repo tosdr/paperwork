@@ -81,6 +81,7 @@
    * Thur 24 May: Process pull requests, initiate roadmap -> 1h
    * Mon 28 May: 1h
    * Tue 29 May: 3h
+   * Mon 18 June: 3h
 
 # Finish: ...
 
