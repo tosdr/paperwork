@@ -80,6 +80,7 @@
    * Mon 28 May: 1h
    * Tue 29 May: 3h
    * Mon 18 June: 3h
+   * Tue 26 June: 4h
 
 # Finish: ...
 
