@@ -4,6 +4,7 @@
 # Start: 2287.89 - 1463.01 - 978.80 - 60 - 500 - 500 - 840 = -2053.92
 (from https://github.com/tosdr/1901/blob/master/finances/finance-2018-q1.md )
 
+* kept safe by NLNet: 0
 * kept safe by Hugo: 2287.89
 * kept safe by Michiel: -1463.01
 * kept safe by Chris: -978.80
@@ -12,9 +13,13 @@
 * kept safe by Ke: -500
 * kept safe by Jimm: -840
 
-# Money in: 19000
-* DuckDuckGo challenge, crowdfunding from contributors: 3515 USD ~= 3000 EUR # see https://www.crowdrise.com/o/en/campaign/tosdr
-* DuckDuckGo challenge, bonuses from DDG: 18,895.49 USD ~= 16000 EUR  # see https://www.crowdrise.com/duckduckgoprivacychallenge?lang=en-us
+# Money in: (N) 16031.04 + 2824 + 7.30 (rounding error?) = 18862.31
+* DuckDuckGo challenge, crowdfunding from contributors:
+  * $3515 donated to https://www.crowdrise.com/o/en/campaign/tosdr
+  * $20.48 gross/net difference (banking fees? compensated by DDG below)
+  * 3515 * 5% = $175.75 admin fee (compensated by DDG below)
+  -> $3318.77 = 2824 EUR net
+* DuckDuckGo challenge, bonuses from DDG: 18,895.49 USD = 16031.04 EUR  # see https://www.crowdrise.com/duckduckgoprivacychallenge?lang=en-us
 
 # Money transfered
 * 7/04 Hugo to Ke Thien: 500 EUR
@@ -85,7 +90,7 @@
 
 # Finish: ...
 
-* kept safe by NLNet: ~19000
+* kept safe by NLNet: 18862.31
 * kept safe by Hugo: 2287.89 - 500 - 500 + ...
 * kept safe by Michiel: -1463.01 - 18 + ...
 * kept safe by Chris: -978.80 + ...
