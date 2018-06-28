@@ -73,7 +73,7 @@
    * Wed 16 May : 3h = 60
    * Thy 31 May : 1h = 20
 
-* compensation Vincent: (4+4+1+1+3+3+4) * 20 = 400
+* compensation Vincent: (4+4+1+1+3+3+4+2) * 20 = 440
    * Tue 22 May: UX fixes, investigate performance issue -> 4h
    * Wed 23 May: UX fixes, fix performance issue -> 4h
    * Thur 24 May: Process pull requests, initiate roadmap -> 1h
@@ -83,7 +83,7 @@
    * Tue 26 June: 4h
    * Wed 27 June: 2h
 
-* compensation Madeline: ...
+* compensation Madeline: (2+1+1+1+1+4+1+2) * 20 = 260
   * Tue 15 May: 2h
   * Fri 18 May: 1h
   * Wed 23 May: 1h
@@ -93,14 +93,14 @@
   * Mon 25 June: 1h
   * Wed 27 June: 2h
 
-# Finish: 18415 + 309.09 - 3541.86 + 220 - 60 - 150 - 840 - 400 = 13952.23
+# Finish: 18415 + 309.09 - 3541.86 + 220 - 60 - 410 - 840 - 440 = 13652.23
 
 * kept safe by NLNet: 18415
 * kept safe by Hugo: 2287.89 - 500 - 500 - 978.80 = 309.09
 * kept safe by Michiel: -1463.01 - 1000 - 418.85 - 660 = -3541.86
 * kept safe by Chris: -978.80 + 1000 + 978.80 - 780 = 220
 * kept safe by Pierre: -60
-* kept safe by Madeline: -500 + 500 -150 = -150
+* kept safe by Madeline: -500 + 500 - 150 - 260 = -410
 * kept safe by Ke: -500 + 500 = 0
 * kept safe by Jimm: -840
-* kept safe by Vincent: -400
+* kept safe by Vincent: -440
