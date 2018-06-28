@@ -83,6 +83,16 @@
    * Tue 26 June: 4h
    * Wed 27 June: 2h
 
+* compensation Madeline: ...
+  * Tue 15 May: 2h
+  * Fri 18 May: 1h
+  * Wed 23 May: 1h
+  * Mon 18 June: 1h
+  * Tue 19 June: 1h
+  * Sun 24 June: 4h
+  * Mon 25 June: 1h
+  * Wed 27 June: 2h
+
 # Finish: ...
 
 * kept safe by NLNet: 18415
