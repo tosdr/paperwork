@@ -71,7 +71,7 @@
    * Mon 7 May : 3h = 60
    * Sat - Sun 12 May - 13/05 = 4h = 80
    * Wed 16 May : 3h = 60
-   * Thy 31 May : 1h = 20
+   * Thu 31 May : 1h = 20
 
 * compensation Vincent: (4+4+1+1+3+3+4+2) * 20 = 440
    * Tue 22 May: UX fixes, investigate performance issue -> 4h
