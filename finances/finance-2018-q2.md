@@ -41,14 +41,14 @@
    * Jan-C. Borchardt:				0 EUR (all activities for the board done as a volunteer)
    * Ian McGowan:				0 EUR (all activities for the board done as a volunteer)
    
-* operations: (M) 18 = 18 + ...
+* operations: (M) 18 + 62.56 + 217.60 + 120.69 = 418.85, (MOL) 150
    * (M) tosback.org server at securedragon.net, 3 x 6 = 18 EUR
    * (M) T-shirts Phoenix Dev Team (10.46 + 4 * 13) = 62.56 EUR
    * (M) Train tickets to BXL 16/17 June Vincent and me: 217.60 EUR
-   * (M) AirBnb 16/17 June: 120 EUR
+   * (M) AirBnb 16/17 June: 120.69 EUR
    * (MOL) Train tickets to BXL 16/17 June for Madeline O: 150.0 EUR
 
-* compensation Michiel: ...
+* compensation Michiel: (2+6+3+4+3.5+3+3+4.5+4) * 20 = 660
    * Wed 2 May: resume work on export script, 2h
    * Fri 4 May: 9-13:30 points renumber, 15-16:30 services export -> 6h
    * Tue 8 May: 12:45-15:45 prepare for export with phoenix ids -> 3h
@@ -59,7 +59,7 @@
    * Thu 17 May: 9:45-11:15 add rest of missing points, 14-16 migrate, 16-17 resume posts/comments import -> 4h30
    * Fri 18 May: 13-17 https://github.com/tosdr/phoenix/issues/355 -> 4h
 
-* compensation Chris: ...
+* compensation Chris: 20+120+40+40+20+120+100+100+60+80+60+20=780
    * Fri 6 April: 14:30 - 18:30 = 4h = 20
    * Mon 16 April: 11:00 - 17:00 = 6h = 120
    * Thu 19 April: 10:00 - 12:00 = 2h = 40
@@ -71,9 +71,9 @@
    * Mon 7 May : 3h = 60
    * Sat - Sun 12 May - 13/05 = 4h = 80
    * Wed 16 May : 3h = 60
-   * Thy 31 May : 1h = 20
+   * Thu 31 May : 1h = 20
 
-* compensation Vincent: ...
+* compensation Vincent: (4+4+1+1+3+3+4+2) * 20 = 440
    * Tue 22 May: UX fixes, investigate performance issue -> 4h
    * Wed 23 May: UX fixes, fix performance issue -> 4h
    * Thur 24 May: Process pull requests, initiate roadmap -> 1h
@@ -83,7 +83,7 @@
    * Tue 26 June: 4h
    * Wed 27 June: 2h
 
-* compensation Madeline: ...
+* compensation Madeline: (2+1+1+1+1+4+1+2) * 20 = 260
   * Tue 15 May: 2h
   * Fri 18 May: 1h
   * Wed 23 May: 1h
@@ -93,13 +93,14 @@
   * Mon 25 June: 1h
   * Wed 27 June: 2h
 
-# Finish: ...
+# Finish: 18415 + 309.09 - 3541.86 + 220 - 60 - 410 - 840 - 440 = 13652.23
 
 * kept safe by NLNet: 18415
-* kept safe by Hugo: 2287.89 - 500 - 500 + ...
-* kept safe by Michiel: -1463.01 - 18 + ...
-* kept safe by Chris: -978.80 + ...
-* kept safe by Pierre: -60 + ...
-* kept safe by Madeline: -500 + 500 + ...
-* kept safe by Ke: -500 + 500 + ...
-* kept safe by Jimm: -840 + ...
+* kept safe by Hugo: 2287.89 - 500 - 500 - 978.80 = 309.09
+* kept safe by Michiel: -1463.01 - 1000 - 418.85 - 660 = -3541.86
+* kept safe by Chris: -978.80 + 1000 + 978.80 - 780 = 220
+* kept safe by Pierre: -60
+* kept safe by Madeline: -500 + 500 - 150 - 260 = -410
+* kept safe by Ke: -500 + 500 = 0
+* kept safe by Jimm: -840
+* kept safe by Vincent: -440
