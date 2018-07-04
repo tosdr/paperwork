@@ -30,8 +30,9 @@
    * James Stout:				0 EUR (all activities for the 1901 association done as a volunteer)
    * Suzanne Azmayesh:				0 EUR (all activities for the 1901 association done as a volunteer)
 
-* operations: (M) 18 + 40.24 + 72.10 = 130.43, (C) 138 = 138
+* operations: (M) 18 + 40.24 + 72.10 + 16.32 = 146.66, (C) 138 = 138
    * (M) tosback.org server at securedragon.net, 3 x 6 EUR
+   * (M) Phoenix hosting on Heroku (5.05 + 7.00 + 7.01) USD = 16.32 EUR
    * (C) Train ticket to Utrecht : 138 EUR
    * (M) airbnb Brussels hackathon, 40.24
    * (M) train Brussels hackathon, 72.10
@@ -100,10 +101,10 @@
    * Feb 28: 3.5hrs tosback3
    * Mar 04: 2.25hrs tosback3 view and import updates
 
-# Finish: 2287.89 - 1463.01 - 978.80 - 60 - 500 - 500 - 840 = -2053.92
+# Finish: 2287.89 - 1479.24 - 978.80 - 60 - 500 - 500 - 840 = -2070.15
 
 * kept safe by Hugo: 4585.09 - 998 - 139.20 - 500 - 660 = 2287.89
-* kept safe by Michiel: -322.58 - 130.43 - 1010 = -1463.01
+* kept safe by Michiel: -322.58 - 146.66 - 1010 = -1479.24
 * kept safe by Chris: -1158 + 998 + 139.20 + 660 - 138 - 1480 = -978.80
 * kept safe by Pierre: -60
 * kept safe by Madeline: -500
