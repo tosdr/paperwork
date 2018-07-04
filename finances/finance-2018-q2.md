@@ -1,12 +1,12 @@
 # finances 2018 Q2:
 
 # All amounts in euros
-# Start: 2287.89 - 1463.01 - 978.80 - 60 - 500 - 500 - 840 = -2053.92
+# Start: 2287.89 - 1479.24 - 978.80 - 60 - 500 - 500 - 840 = -2070.15
 (from https://github.com/tosdr/1901/blob/master/finances/finance-2018-q1.md )
 
 * kept safe by NLNet: 0
 * kept safe by Hugo: 2287.89
-* kept safe by Michiel: -1463.01
+* kept safe by Michiel: -1479.24
 * kept safe by Chris: -978.80
 * kept safe by Pierre: -60
 * kept safe by Madeline: -500
@@ -41,8 +41,9 @@
    * Jan-C. Borchardt:				0 EUR (all activities for the board done as a volunteer)
    * Ian McGowan:				0 EUR (all activities for the board done as a volunteer)
    
-* operations: (M) 18 + 62.56 + 217.60 + 120.69 = 418.85, (MOL) 150
+* operations: (M) 18 + 58.52 + 62.56 + 217.60 + 120.69 = 477.37, (MOL) 150
    * (M) tosback.org server at securedragon.net, 3 x 6 = 18 EUR
+   ( (M) Phoenix hosting on Heroku (7.01 + 27.29 + 34.04) USD = 58.52 EUR
    * (M) T-shirts Phoenix Dev Team (10.46 + 4 * 13) = 62.56 EUR
    * (M) Train tickets to BXL 16/17 June Vincent and me: 217.60 EUR
    * (M) AirBnb 16/17 June: 120.69 EUR
@@ -93,11 +94,11 @@
   * Mon 25 June: 1h
   * Wed 27 June: 2h
 
-# Finish: 18415 + 309.09 - 3541.86 + 220 - 60 - 410 - 840 - 440 = 13652.23
+# Finish: 18415 + 309.09 - 3616.61 + 220 - 60 - 410 - 840 - 440 = 13577.48
 
 * kept safe by NLNet: 18415
 * kept safe by Hugo: 2287.89 - 500 - 500 - 978.80 = 309.09
-* kept safe by Michiel: -1463.01 - 1000 - 418.85 - 660 = -3541.86
+* kept safe by Michiel: -1479.24 - 1000 - 477.37 - 660 = -3616.61
 * kept safe by Chris: -978.80 + 1000 + 978.80 - 780 = 220
 * kept safe by Pierre: -60
 * kept safe by Madeline: -500 + 500 - 150 - 260 = -410
