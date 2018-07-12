@@ -45,6 +45,9 @@
   * Mon 2 Jul: 1h
   * Tue 3 Jul: 1h
   * Wed 4 Jul: 4h
+  * Thu 5 Jul: 4h
+  * Mon 9 Jul: 4h
+  * Tue 10 Jul: 1h
 
 ## compensation Madeline: ...
   * ...
