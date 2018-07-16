@@ -18,7 +18,7 @@
   * ...
 
 # Money transfered
-  * ...
+  * 5 Jul: 7215 NLNet -> Michiel (rebalancing from March/April https://www.crowdrise.com/duckduckgoprivacychallenge)
 
 # Money out
 
