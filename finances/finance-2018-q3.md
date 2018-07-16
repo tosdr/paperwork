@@ -40,6 +40,7 @@
 
 ## compensation Chris: ...
   * Thu 12 & Fri 13 Jul: 3h -- Fixing #554 and #460
+  * Mon 16: 3h -- Work on #567
 
 ## compensation Vincent: ...
   * Mon 2 Jul: 1h
