@@ -50,6 +50,7 @@
   * Thu 5 Jul: 4h
   * Mon 9 Jul: 4h
   * Tue 10 Jul: 1h
+  * Wed 25 Jul: 5h
 
 ## compensation Madeline: ...
   * ...
