@@ -57,6 +57,7 @@
   * Mon 6 Aug: 5h
   * Tue 7 Aug: 4h
   * Tue 21 Aug: 1h
+  * Mon 27 Aug: 3h
 
 ## compensation Madeline: ...
   * ...
