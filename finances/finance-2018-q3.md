@@ -63,6 +63,7 @@
   * Thu 30 Aug: 4h
   * Wed 12 Sep: 2h
   * Thu 13 Sep: 1h
+  * Tue 18 Sep: 2h
 
 ## compensation Madeline: ...
   * ...
