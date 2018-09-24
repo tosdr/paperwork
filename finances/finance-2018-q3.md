@@ -19,6 +19,7 @@
 
 # Money transfered
   * 5 Jul: 7215 NLNet -> Michiel (rebalancing from March/April https://www.crowdrise.com/duckduckgoprivacychallenge)
+  * 24 sep: 100 eur Michiel -> Matti
 
 # Money out
 
@@ -67,5 +68,8 @@
 
 ## compensation Madeline: ...
   * ...
+
+## compensation Matti:
+  * 21 sep: 5h
 
 # Finish: ...
