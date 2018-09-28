@@ -22,6 +22,7 @@
   * 24 sep: 100 eur Michiel -> Matti
   * 27 sep: 1000 eur Michiel -> Jimm
   * 27 sep: 1600 eur Michiel -> Vincent
+  * 28 sep: 500 eur Michiel -> Madeline
 
 # Money out
 
@@ -77,10 +78,10 @@
 
 # Finish: 11200 + 791.25 + 40 + 60 - 410 + 160 + 309.09 - 60 = 12090.34 EUR
 * kept safe by NLNet: 18415 - 7215 = 11200
-* kept safe by Michiel: -3616.61 + 7215 - 100 - 1000 - 107.14 - 1600 = 791.25
+* kept safe by Michiel: -3616.61 + 7215 - 100 - 1000 - 107.14 - 1600 - 500 = 291.25
 * kept safe by Chris: 220 - 180 = 40
 * kept safe by Vincent: -440 - 1100 + 1600 = 60
-* kept safe by Madeline: -410
+* kept safe by Madeline: -410 + 500 = 90
 * kept safe by Jimm: -840 + 1000 = 160
 * kept safe by Hugo: 309.09
 * kept safe by Pierre: -60
