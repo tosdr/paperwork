@@ -76,7 +76,10 @@
 ## compensation Matti: 5 * 20 = 100
   * 21 sep: 5h
 
-# Finish: 11200 + 791.25 + 40 + 60 - 410 + 160 + 309.09 - 60 = 12090.34 EUR
+## compensation Martin: 11 * 20 = 220
+  * 15-30 sep: 11h
+
+# Finish: 11200 + 791.25 + 40 + 60 - 410 + 160 + 309.09 - 60 - 220 = 11870.34 EUR
 * kept safe by NLNet: 18415 - 7215 = 11200
 * kept safe by Michiel: -3616.61 + 7215 - 100 - 1000 - 107.14 - 1600 - 500 = 291.25
 * kept safe by Chris: 220 - 180 = 40
@@ -86,3 +89,4 @@
 * kept safe by Hugo: 309.09
 * kept safe by Pierre: -60
 * kept safe by Matti: 0 - 100 + 100 = 0
+* kept safe by Martin: -220

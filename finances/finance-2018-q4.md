@@ -1,7 +1,7 @@
 # finances 2018 Q4:
 
 # All amounts in euros
-# Start: 11200 + 291.25 + 40 + 60 + 90 + 160 + 309.09 - 60 = 12090.34 EUR
+# Start: 11200 + 291.25 + 40 + 60 + 90 + 160 + 309.09 - 60 = 11870.34 EUR
 
 (from https://github.com/tosdr/1901/blob/master/finances/finance-2018-q3.md )
 
@@ -14,12 +14,13 @@
 * kept safe by Hugo: 309.09
 * kept safe by Pierre: -60
 * kept safe by Matti: 0
+* kept safe by Martin: -220
 
 # Money in
   * ...
 
 # Money transfered
-  * ...
+  * 1 Oct: 220 eur Michiel -> Martin
 
 # Money out
 
@@ -49,7 +50,7 @@
   * ...
 
 ## compensation Matti:
-  * ...
+  * up to 5 oct: 105 minutes
 
 # Finish: ...
 * kept safe by NLNet: 11200
