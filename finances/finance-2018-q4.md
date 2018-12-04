@@ -47,7 +47,20 @@
   * ...
 
 ## compensation Madeline: ...
-  * ...
+  * 13/10 - 1 hour - 10 a.m. - 11 a.m.
+  * 14/10 - 6 hours - 12:30 p.m. - 6:30 p.m.
+  * 16/10 - 1 hour - 7:30 a.m. - 8:30 a.m.
+  * 17/10 - 1 hour - 7:30 a.m. - 8:30 a.m.
+  * 20/10 - 2 hours - 11:25 p.m. - 1:25 p.m.
+  * 21/10 - 2 hours - 11 a.m. - 1 p.m.
+  * 24/10 - 1 hour - 7:30 a.m. - 8:30 a.m.
+  * 25/10 - 1 hour - 7:30 a.m. - 8:30 a.m.
+  * 1/11 - 4 hours - 1 p.m. - 5 p.m.
+  * 2/11 - 3 hours - 5 p.m. - 8 p.m.
+  * 4/11 - 3 hours - 6 p.m. - 9 p.m.
+  * 6/11 - 3 hours - 7:30 a.m. - 8:30 a.m. - 10 a.m. - 12 p.m.
+  
+  * UP TO NOV. 6: 29 hours
 
 ## compensation Matti:
   * up to 5 oct: 105 minutes
