@@ -16,8 +16,7 @@
 * kept safe by Matti: 0
 * kept safe by Martin: -220
 
-# Money in
-  * ...
+# Money in: 0
 
 # Money transfered
   * 1 Oct: 220 eur Michiel -> Martin
@@ -42,14 +41,8 @@
   * (M) tosback.org server at securedragon.net, 3 x 6 = 18 EUR
   * (M) Heroku (34 + 34 + 34) USD = 87.15 EUR
 
-## compensation Chris:
-  * ...
-
 ## compensation Michiel 217 * 20 = 4340 EUR:
   * 7 November: 217 hours from ./hours-michiel-milestone-2.txt
-
-## compensation Vincent:
-  * ...
 
 ## compensation Madeline: 1+6+1+1+2+2+1+1+4+3+3+3 * 20 = 28 * 20 = 560 EUR
   * 13/10 - 1 hour - 10 a.m. - 11 a.m.
@@ -67,16 +60,17 @@
   
   * UP TO NOV. 6: 28 hours
 
-## compensation Matti:
+## compensation Matti: (105/60) * 20 = 35
   * up to 5 oct: 105 minutes
 
-# Finish: ...
+# Finish: 6200+309.09+160+126.10+60+40+30-35-60 = 6830.19
 * kept safe by NLNet: 11200 - 5000 = 6200
-* kept safe by Michiel: 291.25 - 105.15 - 4340 + 5000 - 500 = 346.10
-* kept safe by Chris: 40
-* kept safe by Vincent: 60
-* kept safe by Madeline: 90 - 560 + 500 = 30
-* kept safe by Jimm: 160
 * kept safe by Hugo: 309.09
+* kept safe by Jimm: 160
+* kept safe by Michiel: 291.25 - 220 + 5000 - 500 - 105.15 - 4340 = 126.10
+* kept safe by Vincent: 60
+* kept safe by Chris: 40
+* kept safe by Madeline: 90 - 560 + 500 = 30
+* kept safe by Martin: -220 + 220 = 0
+* kept safe by Matti: 0 - 35 = -35
 * kept safe by Pierre: -60
-* kept safe by Matti: 0
