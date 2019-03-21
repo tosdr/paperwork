@@ -34,11 +34,18 @@
   * Jan-C. Borchardt:				0 EUR (all activities for the board done as a volunteer)
   * Ian McGowan:				0 EUR (all activities for the board done as a volunteer)
    
-## operations: (M) 18+87.15=105.15
+## operations: ...
   * (M) tosback.org server at securedragon.net, 3 x 6 = 18 EUR
   * (M) Heroku (34 + 34 + 34) USD = 87.15 EUR
+  * (M) main AirBnB place for Berlin weekend: 645.10 EUR
+  * (M) train for myself from Utrecht for Berlin weekend: 89.80 EUR
 
 (we now pay ourselves 20 euros/hour)
+
+## compensation Michiel: ...
+  * 8 Feb: 4 hours
+  * 18 Feb: 1 hour
+  * 21 Mar: 1 hour
 
 ## compensation YourName:
   * ...
