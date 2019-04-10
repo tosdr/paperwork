@@ -1,14 +1,14 @@
-# finances 2019 Q1:
+# finances 2019 Q2:
 
 # All amounts in euros
-# Start: 6200 + 309.09 + 160 + 126.10 + 60 + 40 + 30 -35 -60 = 6830.19 EUR
+# Start: 6200 + 309.09 + 160 -834.04 + 60 + 40 + 30 -35 -60 = 5870.05 EUR
 
 (from https://github.com/tosdr/1901/blob/master/finances/finance-2018-q4.md )
 
 * kept safe by NLNet: 6200
 * kept safe by Hugo: 309.09
 * kept safe by Jimm: 160
-* kept safe by Michiel: 126.10
+* kept safe by Michiel: -834.04
 * kept safe by Vincent: 60
 * kept safe by Chris: 40
 * kept safe by Madeline: 30
@@ -28,24 +28,20 @@
   * Jan-C. Borchardt:				0 EUR (all activities for the board done as a volunteer)
   * Ian McGowan:				0 EUR (all activities for the board done as a volunteer)
    
-## operations: (M) 18+87.15+645.10+89.89=840.14
+## operations: ...
   * (M) tosback.org server at securedragon.net, 3 x 6 = 18 EUR
   * (M) Heroku (34 + 34 + 34) USD = 87.15 EUR
-  * (M) main AirBnB place for Berlin weekend: 645.10 EUR
-  * (M) train for myself from Utrecht for Berlin weekend: 89.80 EUR
 
 (we now pay ourselves 20 euros/hour)
 
-## compensation Michiel: 6*20=120
-  * 8 Feb: 4 hours
-  * 18 Feb: 1 hour
-  * 21 Mar: 1 hour
+## compensation YourName:
+  * ...
 
-# Finish: 6200 + 309.09 + 160 -834.04 + 60 + 40 + 30 -35 -60 = 5870.05 EUR
+# Finish: ...
 * kept safe by NLNet: 6200
 * kept safe by Hugo: 309.09
 * kept safe by Jimm: 160
-* kept safe by Michiel: 126.10 - 840.14 - 120 = -834.04
+* kept safe by Michiel: -834.04
 * kept safe by Vincent: 60
 * kept safe by Chris: 40
 * kept safe by Madeline: 30
