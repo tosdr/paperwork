@@ -28,10 +28,25 @@
   * Jan-C. Borchardt:				0 EUR (all activities for the board done as a volunteer)
   * Ian McGowan:				0 EUR (all activities for the board done as a volunteer)
    
-## operations: ...
-  * (M) tosback.org server at securedragon.net, 3 x 6 = 18 EUR
-  * (M) Heroku (34 + 34 + 34) USD = 87.15 EUR
+## operations:
+  * Michiel:
+    * tosback.org server at securedragon.net, 3 x 6 = 18 EUR
+    * Heroku (34 + 34 + 34) USD = 87.15 EUR
+    * lunch Saturday Berlin weekend: 60 EUR
+    * Apero: 38.50 EUR
+    * U-Bahn: 9 EUR
 
+  * Santeri: 4.86+6.80+6.80+2.80+2.80+2.28+5.36+64.20+75.99=171.89 EUR
+    * Georgian Bus: 15 GEL = 4.86 EUR
+    * S-Bahn: 2 x 3.40 = 6.80 EUR
+    * S-Bahn back: 2 x 3.40 = 6.80 EUR
+    * DBahn: 5.60 / 2 = 2.80 EUR
+    * DBahn back: 5.60 / 2 = 2.80 EUR
+    * Aldi 2.28 EUR
+    * Lidl 5.36 EUR
+    * Wizzair 395.98 / 2 = 197.99 GEL = 64.20 EUR
+    * AirBaltic  151.98 / 2 = 75.99 EUR
+  
 (we now pay ourselves 20 euros/hour)
 
 ## compensation Jimm: 26.5 * 20€ - 160€ = 370€
