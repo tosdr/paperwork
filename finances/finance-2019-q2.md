@@ -46,6 +46,9 @@
     * Lidl 5.36 EUR
     * Wizzair 395.98 / 2 = 197.99 GEL = 64.20 EUR
     * AirBaltic  151.98 / 2 = 75.99 EUR
+
+  * Jan:
+    * brunch Sunday Berlin weekend: 90 EUR
   
 (we now pay ourselves 20 euros/hour)
 
