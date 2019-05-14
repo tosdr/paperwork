@@ -49,6 +49,11 @@
 
   * Jan:
     * brunch Sunday Berlin weekend: 90 EUR
+
+  * Madeline: 146+60=206 EUR
+    * EasyJet = 146 EUR (round-trip)
+    * Taxi from Tegel airport to hotel = 30 EUR
+    * Taxi from hotel to Tegel airport = 30 EUR
   
 (we now pay ourselves 20 euros/hour)
 
