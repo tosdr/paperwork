@@ -16,6 +16,11 @@
 * kept safe by Matti: -35
 * kept safe by Pierre: -60
 
+# Money transfered
+* 14 May: Michiel -> Jan 90 EUR
+* 14 May: Michiel -> Madeline 176 EUR
+* 23 May: Michiel -> Santeri 200 EUR
+
 # Money out
 
 ## compensation board members of the Commons Conservancy Theme:
@@ -81,6 +86,11 @@
 
   * Total time so far: 16.5 + 2 + 8 = 26.5
   * Total euros so far: 26.5 * 20€ - 160€ (was kept safe) = 370€
+
+## compensation Michiel:
+  * 18 May: 2 hours approving/rejecting points
+  * 19 May: 1 hour approving/rejecting points
+  * 29 May: 1 hour approving/rejecting points
 
 ## compensation YourName:
   * ...
