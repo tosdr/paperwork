@@ -92,6 +92,9 @@
   * 19 May: 1 hour approving/rejecting points
   * 29 May: 1 hour approving/rejecting points
 
+## compensation Vincent:
+  * 7 Jun: 2 hours fixing bugs
+
 ## compensation YourName:
   * ...
 
