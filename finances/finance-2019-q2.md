@@ -20,6 +20,7 @@
 * 14 May: Michiel -> Jan 90 EUR
 * 14 May: Michiel -> Madeline 176 EUR
 * 23 May: Michiel -> Santeri 200 EUR
+* 20 Jun: NLNet -> Michiel 1200 EUR
 
 # Money out
 
@@ -40,6 +41,7 @@
     * lunch Saturday Berlin weekend: 60 EUR
     * Apero: 38.50 EUR
     * U-Bahn: 9 EUR
+    * renew cgupas.lu (one year) and tosdr.org (5 years) 121.97 EUR
 
   * Santeri: 4.86+6.80+6.80+2.80+2.80+2.28+5.36+64.20+75.99=171.89 EUR
     * Georgian Bus: 15 GEL = 4.86 EUR
