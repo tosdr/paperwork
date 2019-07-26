@@ -33,9 +33,9 @@
   * Hugo Roy:					0 EUR (all activities for the board done as a volunteer)
   * Jan-C. Borchardt:				0 EUR (all activities for the board done as a volunteer)
   * Ian McGowan:				0 EUR (all activities for the board done as a volunteer)
-   
+
 ## operations:
-  * Michiel:
+  * Michiel: 18 + 87.15 + 60 + 38.50 + 9 + 121.97 = 334.62
     * tosback.org server at securedragon.net, 3 x 6 = 18 EUR
     * Heroku (34 + 34 + 34) USD = 87.15 EUR
     * lunch Saturday Berlin weekend: 60 EUR
@@ -43,7 +43,7 @@
     * U-Bahn: 9 EUR
     * renew cgupas.lu (one year) and tosdr.org (5 years) 121.97 EUR
 
-  * Santeri: 4.86+6.80+6.80+2.80+2.80+2.28+5.36+64.20+75.99=171.89 EUR
+  * Santeri: 4.86+6.80+6.80+2.80+2.80+2.28+5.36+64.20+75.99+18.11=200 EUR
     * Georgian Bus: 15 GEL = 4.86 EUR
     * S-Bahn: 2 x 3.40 = 6.80 EUR
     * S-Bahn back: 2 x 3.40 = 6.80 EUR
@@ -53,6 +53,7 @@
     * Lidl 5.36 EUR
     * Wizzair 395.98 / 2 = 197.99 GEL = 64.20 EUR
     * AirBaltic  151.98 / 2 = 75.99 EUR
+    * banking costs 18.11 (estimate, to round off to 200)
 
   * Jan:
     * brunch Sunday Berlin weekend: 90 EUR
@@ -61,10 +62,10 @@
     * EasyJet = 146 EUR (round-trip)
     * Taxi from Tegel airport to hotel = 30 EUR
     * Taxi from hotel to Tegel airport = 30 EUR
-  
+
 (we now pay ourselves 20 euros/hour)
 
-## compensation Jimm: 26.5 * 20€ - 160€ = 370€
+## compensation Jimm: 26.5 * 20€ = 530€
   * 16hrs30mins:
     * Mar 05, 18: 4hrs updating tosback3 views, css, model tests, factories
     * Mar 15, 18: 3hrs shooting and editing video
@@ -89,25 +90,27 @@
   * Total time so far: 16.5 + 2 + 8 = 26.5
   * Total euros so far: 26.5 * 20€ - 160€ (was kept safe) = 370€
 
-## compensation Michiel:
+## compensation Michiel: 4 * 20 = 80
   * 18 May: 2 hours approving/rejecting points
   * 19 May: 1 hour approving/rejecting points
   * 29 May: 1 hour approving/rejecting points
 
-## compensation Vincent:
+## compensation Vincent: 2 * 20 = 40
   * 7 Jun: 2 hours fixing bugs
 
 ## compensation YourName:
   * ...
 
-# Finish: ...
-* kept safe by NLNet: 6200
+# Finish: 5000 + 309.09 - 370 - 524.66 + 20 + 40 - 35 - 60 = 4379.43
+* kept safe by NLNet: 6200 - 1200 = 5000
 * kept safe by Hugo: 309.09
-* kept safe by Jimm: 160
-* kept safe by Michiel: -834.04
-* kept safe by Vincent: 60
+* kept safe by Jimm: 160 - 530 = -370
+* kept safe by Michiel: -834.04 + 1200 - 200 - 176 - 90 - 344.62 - 80 = -524.66
+* kept safe by Vincent: 60 - 40 = 20
 * kept safe by Chris: 40
-* kept safe by Madeline: 30
+* kept safe by Madeline: 30 - 206 + 176 = 0
 * kept safe by Martin: 0
 * kept safe by Matti: -35
 * kept safe by Pierre: -60
+* kept safe by Jan: 0 - 90 + 90 = 0
+* kept safe by Santeri: 0 - 200 + 200 = 0
