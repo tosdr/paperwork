@@ -16,7 +16,11 @@
 * kept safe by Matti: -35
 * kept safe by Pierre: -60
 
+# Money in
+* 666 EUR (729 USD) from OpenCollective to PayPal (buro@tosdr.org)
+
 # Money transfered
+* 457 EUR (500 USD) from PayPal (buro@tosdr.org) to Jimm
 
 # Money out
 
@@ -34,7 +38,7 @@
   * Michiel:
     * tosback.org server at securedragon.net, 3 x 6 = 18 EUR
     * Heroku (34 + 34 + 34) USD = 87.15 EUR
-  
+  * PayPal: 4.12 EUR transaction costs for USD payment to Jimm
 (we now pay ourselves 20 euros/hour)
 
 ## compensation YourName:
@@ -42,8 +46,9 @@
 
 # Finish: ...
 * kept safe by NLNet: 5000
+* kept safe by PayPal (buro@tosdr.org): 0 + 666 - 457 - 4.12 = 204.88 EUR (or actually 224.79 USD, and GUI shows you would only get 199.23 EUR if you converted it)
 * kept safe by Hugo: 309.09
-* kept safe by Jimm: -370
+* kept safe by Jimm: -370 + 457 = +87
 * kept safe by Michiel: -524.66 
 * kept safe by Vincent: 20
 * kept safe by Chris: 40
