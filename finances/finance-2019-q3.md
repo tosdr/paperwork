@@ -41,6 +41,9 @@
   * PayPal: 4.12 EUR transaction costs for USD payment to Jimm
 (we now pay ourselves 20 euros/hour)
 
+## compensation Vincent:
+  * 1 hour implementing [#863](https://github.com/tosdr/edit.tosdr.org/pull/863).
+
 ## compensation YourName:
   * ...
 
