@@ -37,13 +37,15 @@
 ## compensation Evan: 5 * 20 = 100
   * 5 hours creating curators guide
 
+## compensation Michiel:
+  * 8 June: 2 hours catching up on some general project admin tasks
 
-# Finish: 5000 + 199.23 + 309.09 - 87 - 1047.25 + 40 - 35 - 60 + 0 = 4319.07 EUR
+# Finish: ...
 * kept safe by NLNet: 5000
 * kept safe by PayPal (buro@tosdr.org): 199.23?
 * kept safe by Hugo: 309.09
 * kept safe by Jimm: 87
-* kept safe by Michiel: -840.11 - 100 - 18 - 87.15 - 1.99 = -1047.25
+* kept safe by Michiel: -840.11 - 100 - 18 - 87.15 - 1.99 - ... = ...
 * kept safe by Chris: 40
 * kept safe by Matti: -35
 * kept safe by Pierre: -60
