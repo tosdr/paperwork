@@ -1,14 +1,14 @@
-# finances 2020 Q1:
+# finances 2020 Q2:
 
 # All amounts in euros
-# Start: 5000 + 199.23 + 309.09 - 87 - 734.96 + 40 - 35 - 60 = 4631.36 EUR
-(from https://github.com/tosdr/paperwork/blob/master/finances/finance-2019-q4.md )
+# Start: 5000 + 199.23 + 309.09 - 87 - 840.11 + 40 - 35 - 60 = 4526.21 EUR
+(from https://github.com/tosdr/paperwork/blob/master/finances/finance-2020-q1.md )
 
 * kept safe by NLNet: 5000
 * kept safe by PayPal (buro@tosdr.org): 199.23?
 * kept safe by Hugo: 309.09
 * kept safe by Jimm: 87
-* kept safe by Michiel: -734.96
+* kept safe by Michiel: -840.11
 * kept safe by Chris: 40
 * kept safe by Matti: -35
 * kept safe by Pierre: -60
@@ -30,12 +30,12 @@
     * tosback.org server at securedragon.net, 3 x 6 = 18 EUR
     * Heroku (34 + 34 + 34) USD = 87.15 EUR
 
-# Finish: 5000 + 199.23 + 309.09 - 87 - 840.11 + 40 - 35 - 60 = 4526.21 EUR
+# Finish: 5000 + 199.23 + 309.09 - 87 - 945.26 + 40 - 35 - 60 = 4421.06 EUR
 * kept safe by NLNet: 5000
 * kept safe by PayPal (buro@tosdr.org): 199.23?
 * kept safe by Hugo: 309.09
 * kept safe by Jimm: 87
-* kept safe by Michiel: -734.96 - 18 - 87.15 = -840.11
+* kept safe by Michiel: -840.11 - 18 - 87.15 = -945.26
 * kept safe by Chris: 40
 * kept safe by Matti: -35
 * kept safe by Pierre: -60
