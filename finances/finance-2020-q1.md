@@ -1,15 +1,14 @@
-# finances 2019 Q4:
+# finances 2020 Q1:
 
 # All amounts in euros
-# Start: 5000 + 199.23 + 309.09 - 87 - 629.81 + 40 - 35 - 60 = 4736.51 EUR
-
-(from https://github.com/tosdr/paperwork/blob/master/finances/finance-2019-q3.md )
+# Start: 5000 + 199.23 + 309.09 - 87 - 734.96 + 40 - 35 - 60 = 4631.36 EUR
+(from https://github.com/tosdr/paperwork/blob/master/finances/finance-2019-q4.md )
 
 * kept safe by NLNet: 5000
 * kept safe by PayPal (buro@tosdr.org): 199.23?
 * kept safe by Hugo: 309.09
 * kept safe by Jimm: 87
-* kept safe by Michiel: -629.81
+* kept safe by Michiel: -734.96
 * kept safe by Chris: 40
 * kept safe by Matti: -35
 * kept safe by Pierre: -60
@@ -36,7 +35,7 @@
 * kept safe by PayPal (buro@tosdr.org): 199.23?
 * kept safe by Hugo: 309.09
 * kept safe by Jimm: 87
-* kept safe by Michiel: -629.81 - 18 - 87.15 = -734.96
+* kept safe by Michiel: -734.96 - 18 - 87.15 = -840.11
 * kept safe by Chris: 40
 * kept safe by Matti: -35
 * kept safe by Pierre: -60
