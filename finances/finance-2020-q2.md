@@ -35,10 +35,17 @@
     * PayPal fee 1.99 EUR
 
 ## compensation Evan: 5 * 20 = 100
-  * 5 hours creating curators guide
+  * 5 hours creating curators guide (up to 1 June)
+  * 15 hours curating (up to 15 June)
 
-## compensation Michiel:
-  * 8 June: 2 hours catching up on some general project admin tasks
+## compensation Michiel: 2 + 1 + 3.5 + 1 + 2.5 + 1 + 3.5
+  * mon 8 June: 2 hours catching up on some general project admin tasks
+  * wed 10 June: 1 press
+  * mon 15 June: 3.5
+  * tue 16 June: 1
+  * wed 17 June: 2.5 setting up forum, fixing tosback.org disk full
+  * fri 19 June 1 tosback
+  * mon 22 June: 2.5 software developmment, 1 curating
 
 # Finish: ...
 * kept safe by NLNet: 5000
