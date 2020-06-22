@@ -39,6 +39,10 @@
 
 ## compensation Michiel:
   * 8 June: 2 hours catching up on some general project admin tasks
+  
+## compensation Madeline: 8 * 20 = 160
+ * April 5, 2020 : 3 hours to implement cron task calculating service rating and outputting to csv
+ * May 16 + May 17, 2020 : 5 hours to implement tools to combat spam on comments
 
 # Finish: ...
 * kept safe by NLNet: 5000
