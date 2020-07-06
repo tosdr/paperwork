@@ -15,6 +15,7 @@
 
 # Money transferred:
 * 8 June: 100 EUR Michiel -> Evan
+* 22 June: 400 EUR Michiel -> Evan
 
 # Money out
 
@@ -32,11 +33,12 @@
   * Michiel:
     * tosback.org server at securedragon.net, 3 x 6 = 18 EUR
     * Heroku (34 + 34 + 34) USD = 87.15 EUR
-    * PayPal fee 1.99 EUR
+    * PayPal fee 2*1.99 EUR
 
 ## compensation Evan: 5 * 20 = 100
   * 5 hours creating curators guide (up to 1 June)
-  * 15 hours curating (up to 15 June)
+  * 20 hours curating (up to 22 June)
+  * 9 hours curating (up to 6 July)
 
 ## compensation Michiel: 2 + 1 + 3.5 + 1 + 2.5 + 1 + 3.5
   * mon 8 June: 2 hours catching up on some general project admin tasks
