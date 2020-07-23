@@ -34,7 +34,9 @@
 ## operations:
   * Michiel: ...
     * tosback.org server at securedragon.net, 3 x 6 = 18 EUR
-    * Heroku (34 + 34 + 34) USD = 87.15 EUR
+    * edit.tosdr.org server at Heroku (34 + 34 + 34) USD = 87.15 EUR
+    * forum.tosdr.org serve at DigitalOcean
+    * account at SendGrid.
 
 ## compensation (your name): ...
   * ...
