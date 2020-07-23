@@ -48,6 +48,7 @@
 
 # Finish: ...
 * kept safe by NLNet: 5000
+* kept safe by OpenCollective: 1651.02
 * kept safe by PayPal (buro@tosdr.org): 188
 * kept safe by Hugo: 309.09
 * kept safe by Jimm: 87
