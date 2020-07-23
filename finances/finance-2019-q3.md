@@ -17,10 +17,10 @@
 * kept safe by Pierre: -60
 
 # Money in
-* 666 EUR (729 USD) from OpenCollective to PayPal (buro@tosdr.org)
+* 666 EUR (729 USD) from OpenCollective to PayPal (729 USD received in buro@tosdr.org account on 29 July)
 
 # Money transfered
-* 457 EUR (500 USD) from PayPal (buro@tosdr.org) to Jimm
+* 457 EUR (500 USD) from PayPal (buro@tosdr.org) to Jimm (sent from buro@tosdr.org account on 3 sep)
 
 # Money out
 
