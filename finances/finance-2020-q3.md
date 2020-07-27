@@ -18,6 +18,7 @@
 * https://opencollective.com/tosdr balance now around 1914.81 USD = 1651.02 EUR
 
 # Money transferred:
+* 220.30 USD paypal->Evan (+ fee 4.44 USD)
 
 # Money out
 
@@ -37,6 +38,9 @@
     * edit.tosdr.org server at Heroku (34 + 34 + 34) USD = 87.15 EUR
     * forum.tosdr.org serve at DigitalOcean
     * account at SendGrid.
+
+## compensation Evan: ...
+  * up to 27 july: 16 hours
 
 ## compensation (your name): ...
   * ...
