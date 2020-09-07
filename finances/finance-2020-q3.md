@@ -20,6 +20,7 @@
 # Money transferred:
 * 220.30 USD paypal->Evan (+ fee 4.44 USD)
 * on 10 Aug, 500 EUR (+fee 1.99 EUR) Michiel->Evan
+* on 7 Sep, 400 EUR (+fee 1.99 EUR) Michiel->Evan
 
 # Money out
 
@@ -43,6 +44,7 @@
 ## compensation Evan: ...
   * up to 27 july: 16 hours
   * up to 10 Aug: 19 hours
+  * up to 7 Sep: 19 hours
 
 ## compensation (your name): ...
   * ...
