@@ -1,4 +1,4 @@
-# finances 2020 Q2:
+# finances 2020 Q3:
 
 # All amounts in euros
 # Start: 5000 + 188 + 309.09 + 87 - 1971.23 - 160  + 40 - 35 - 60 = 3397.86 EUR
