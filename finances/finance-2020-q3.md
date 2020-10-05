@@ -46,15 +46,23 @@
   * up to 10 Aug: 19 hours
   * up to 7 Sep: 19 hours
 
+## compensation Michiel: (0.5+1+1+1+3+1+1+0.5+0.5+3+1+0.5+0.5) * 20 = 290
+  * wed 1 jul: 0.5
+  * mon 6 jul: weekly curators meeting 1
+  * fri 10 jul: Call with StartPage (20-21) 1
+  * mon 13 jul: weekly curators meeting (20-21) 1
+  * thu 23 jul: Contributor Support (10-13) 3
+  * mon 27 jul: weekly call (20-21) 1
+  * thu 6 aug: Call with StartPage (11-12) 1
+  * mon 10 aug: Export ToS;DR Blog from Ghost (12:30-13) 0.5
+  * mon 17 aug: weekly meeting (20-20:30) 0.5
+  * tue 18 aug: https://github.com/ambanum/CGUs/pull/105 (9-12) 3
+  * mon 24 aug: (20-21) 1
+  * mon 31 aug: weekly meeting (20-20:30) 0.5
+  * fri 11 sep: remove Crawl button (16-16:30) 0.5
+
 ## compensation (your name): ...
   * ...
-
-## compensation Michiel: ...
-  * wed 1 July: 0.5
-  * mon 6 July: 1
-  * fri 10 July: 1
-  * mon 13 July: 1
-  * thu 23 July: 1
 
 # Finish: ...
 * kept safe by NLNet: 5000
