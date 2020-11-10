@@ -38,8 +38,9 @@
     * account at SendGrid 3*14.95 USD = 38.07 EUR
     * paypal fees 1*1.99
 
-## compensation Madeline: 1 * 20
+## compensation Madeline: 2 * 20
   * 09/11/2020 - 1 hour to fix API and add functionality
+  * 10/11/2020 - 1 hour to implement cases security policy and integrate cases into the API
 
 ## compensation (your name): ...
   * ...
