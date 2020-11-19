@@ -18,6 +18,7 @@
 * Michiel -> Madeline 5 Oct 160 EUR
 * Michiel -> Evan 5 Oct 356 EUR
 * Michiel -> Evan 19 Nov 940 EUR (received: 1069,19 USD)
+* Michiel -> Justin 19 Nov 151.20 EUR
 
 # Money out
 
@@ -46,6 +47,9 @@
 
 ## compensation Evan: 47 * 20 = 940
   * 5 Oct - 10 Nov: 47 hours
+
+## compensation Justin: 7.56 * 20 = 151.20
+  * Timesheet 12 Nov: 7.56 hours
 
 ## compensation (your name): ...
   * ...
