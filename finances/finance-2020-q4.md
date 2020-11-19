@@ -17,6 +17,7 @@
 # Money transferred
 * Michiel -> Madeline 5 Oct 160 EUR
 * Michiel -> Evan 5 Oct 356 EUR
+* Michiel -> Evan 19 Nov 940 EUR (received: 1069,19 USD)
 
 # Money out
 
@@ -36,12 +37,15 @@
     * edit.tosdr.org server at Heroku 3*34 USD = 87.15 EUR
     * forum.tosdr.org serve at DigitalOcean 3*7.26 USD = 18.49 EUR
     * account at SendGrid 3*14.95 USD = 38.07 EUR
-    * paypal fees 1*1.99
+    * paypal fees 2*1.99
 
 ## compensation Madeline: 4 * 20
   * 09/11/2020 - 1 hour to fix API and add functionality
   * 10/11/2020 - 1 hour to implement cases security policy and integrate cases into the API
   * 13/11/2020 - 2 hours to implement pagination in API for points
+
+## compensation Evan: 47 * 20 = 940
+  * 5 Oct - 10 Nov: 47 hours
 
 ## compensation (your name): ...
   * ...
