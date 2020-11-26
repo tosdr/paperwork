@@ -20,7 +20,7 @@
 * Michiel -> Evan 19 Nov 940 EUR (received: 1069,19 USD)
 * Michiel -> Justin 19 Nov 151.20 EUR
 * Michiel -> Madeline 19 Nov 80 EUR
-* Michiel -> Jeff 26 Nov 107.40 EUR
+* Michiel -> Guennadi 26 Nov 107.40 EUR
 
 # Money out
 
@@ -41,7 +41,7 @@
     * forum.tosdr.org serve at DigitalOcean 3*7.26 USD = 18.49 EUR
     * account at SendGrid 3*14.95 USD = 38.07 EUR
     * paypal fees 2*1.99
-  * Jeff:
+  * Guennadi:
     * paypal fees 1*1.99
 
 ## compensation Madeline: 4 * 20
@@ -55,7 +55,7 @@
 ## compensation Justin: 7.56 * 20 = 151.20
   * Timesheet 12 Nov: 7.56 hours
 
-## compensation Jeff: 5.37 * 20 = 107.4
+## compensation Guennadi: 5.37 * 20 = 107.4
   * Timesheet 22 Nov: 5.37 hours
 
 ## compensation Michiel: (1+1+0.5+1+0.5) * 20 = 80
