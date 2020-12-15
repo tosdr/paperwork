@@ -58,12 +58,33 @@
 ## compensation Guennadi: 5.37 * 20 = 107.4
   * Timesheet 22 Nov: 5.37 hours
 
-## compensation Michiel: (1+1+0.5+1+0.5) * 20 = 80
+## compensation Michiel: (1+1+0.5+1+0.5+4+1.5+2+1+1+1.5+1.5+1.5+1+2+4.5+4+1.5+2+0.5+1.5+2+6+3.5+3+6) * 20 = 1110
   * mon 5 oct: weekly meeting (20-21) 1
   * mon 12 oct: Connect with Thenuka about NLP project (11-12) 1
   * thu 15 oct: Respond to messages (9-9:30) 0.5
   * tue 17 nov: Chat with Alain from LegiCrowd (10-11) 1
   * wed 18 nov: Milestone report (17-17:30) 0.5
+  * thu 19 nov: ToSBack switch-over to ambanum crawler (13-17) 4
+  * fri 20 nov: tosdr-tosback (10:30-12) 1.5
+  * fri 20 nov: tosdr-tosback (14-16) 2
+  * wed 24 nov: quote matching (11-12) 1
+  * wed 24 nov: quote matching (16-17) 1
+  * thu 25 nov: admin (9-10:30) 1.5
+  * thu 25 nov: tosback (11-12:30) 1.5
+  * fri 26 nov: switching over tosback.org (10-11:30) 1.5
+  * fri 26 nov: switching over tosback.org (13:30-14:30) 1
+  * mon 7 dec: New Crawler (9-11) 2
+  * mon 7 dec: New Crawler (12:30-17) 4.5
+  * tue 8 dec: New Crawler (9:30-13:30) 4
+  * tue 8 dec: New Crawler (14- 15:30) 1.5
+  * wed 9 dec: New Crawler (10-12) 2
+  * wed 9 dec: New Crawler (14-14:30) 0.5
+  * wed 9 dec: New Crawler (15:30-17) 1.5
+  * thu 10 dec: Cron Automation (13:30-15:30) 2
+  * fri 11 dec: Docs Cleanup up to doc id 150 (10:30-16:30) 6
+  * mon 14 dec: Docs Cleanup with script (13:30-17) 3.5
+  * mon 14 dec: approve/decline backlog (20-23) 3
+  * tue 15 dec: approve/decline backlog (9-15) 6
 
 ## compensation (your name): ...
   * ...
