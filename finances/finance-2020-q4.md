@@ -21,6 +21,7 @@
 * Michiel -> Justin 19 Nov 151.20 EUR
 * Michiel -> Madeline 19 Nov 80 EUR
 * Michiel -> Guennadi 26 Nov 107.40 EUR
+* NLNet -> Michiel (milestone claimed 15 Dec) 5,000 EUR
 
 # Money out
 
@@ -90,11 +91,11 @@
   * ...
 
 # Finish:
-* kept safe by NLNet: 5000
+* kept safe by NLNet: 5000 - 5000
 * kept safe by OpenCollective: 1651.02
 * kept safe by Hugo: 309.09
 * kept safe by Jimm: 87
-* kept safe by Michiel: -3310.54 - 160 - 356 - 940 - 151.20 - 80 - 165.67 - 80 = -5243.41:q:Q
+* kept safe by Michiel: -3310.54 - 160 - 356 - 940 - 151.20 - 80 - 107.40 + 5000 - 165.67 - 1110 = -1380
 * kept safe by Madeline: -160
 * kept safe by Chris: 40
 * kept safe by Matti: -35
