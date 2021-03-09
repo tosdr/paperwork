@@ -29,7 +29,7 @@
   * Ian McGowan:				0 EUR (all activities for the board done as a volunteer)
 
 ## operations:
-  * Michiel: 18+87.15+18.49+38.05+3.98=165.67
+  * Michiel: 18+87.15+18.49+38.05=161.69
     * tosback.org server at securedragon.net, 3 x 6 = 18 EUR
     * edit.tosdr.org server at Heroku 3*34 USD = 87.15 EUR
     * forum.tosdr.org serve at DigitalOcean 3*7.26 USD = 18.49 EUR
