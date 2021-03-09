@@ -21,7 +21,7 @@
 * Michiel -> Justin 19 Nov 151.20 EUR
 * Michiel -> Madeline 19 Nov 80 EUR
 * Michiel -> Guennadi 26 Nov 107.40 EUR
-* NLNet -> Michiel (milestone claimed 15 Dec) 5,000 EUR
+* NLNet -> Michiel (milestone claimed 15 Dec, paid on 23 Dec) 5,000 EUR
 
 # Money out
 
