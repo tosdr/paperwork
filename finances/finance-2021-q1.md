@@ -14,7 +14,7 @@
 * kept safe by Evan: -356
 
 # Money transferred
-* OpenCollective -> Michiel (32.31 + 11.99 + 925.47) EUR, 9 Feb
+* OpenCollective -> Michiel (32.31 + 11.99 + 925.47 + 527.60 = 1497.37) EUR, 9 Feb
 
 # Money out
 
@@ -40,4 +40,12 @@
   * ...
 
 # Finish:
-...
+* kept safe by OpenCollective: 1651.02 - 1497.37 = 153.65
+* kept safe by Hugo: 309.09
+* kept safe by Jimm: 87
+* kept safe by Michiel: -1380 + 1497.37 - 161.69 = -44.32
+* kept safe by Madeline: -160
+* kept safe by Chris: 40
+* kept safe by Matti: -35
+* kept safe by Pierre: -60
+* kept safe by Evan: -356
